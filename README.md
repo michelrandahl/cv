@@ -2,7 +2,7 @@
 
 _Software udvikler og passioneret funktionel programmør_
 
-[Email](mailto:michel@randahl.net) / [LinkedIn](www.linkedin.com/in/michel-randahl) / [GitHub](https://github.com/michelrandahl)
+Email: michel@randahl.net / Adresse: Holte, Danmark / Telefon: 28681069 / [www.linkedin.com/in/michel-randahl](www.linkedin.com/in/michel-randahl) / [https://github.com/michelrandahl](https://github.com/michelrandahl)
 
 ## Profil
 Software udvikler med passion for funktionel programmering. Jeg har mere end 4 års praktisk erfaring med funktionel programmering. Derudover har jeg siden min studie tid været nysgerrig på funktionel programmering stort set helt fra start af, og har nydt at lære om emnet både i min fritid og på universitetet. Jeg er især tiltrukket af at kunne skrive kode som er pålidelig, korrekt og let at vedligeholde.
