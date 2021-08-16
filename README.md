@@ -26,7 +26,7 @@ Jeg nyder problem løsning alene såvel som i samarbejde med andre, og nyder bå
 **Kandidat i Computer Science and Engineering** @ [DTU](https://www.dtu.dk/english/education/msc/programmes/computer_science_and_engineering) _(feb 2014- okt 2016)_
 - Et par af favorit kurserne var 'Formal Aspects of Software Engineering', 'Stochastic Simulation' og 'Fault Tolerant Systems'.
 - Samtidig med mit speciale arbejdede jeg lidt som hjælpe lærer i kurset 'Formal Aspects of Software Engineering'.
-- Jeg tog et semester i Japan på Tohoku University i Sendai. Her tog jeg kurser inden for computer science og arbejdede på et projekt i et Space Robotics laboratory.
+- Jeg tog et semester i Japan på [Tohoku University i Sendai](https://www.eng.tohoku.ac.jp/english/). Her tog jeg kurser inden for computer science og arbejdede på et projekt i et Space Robotics laboratory.
 - **_Speciale:_** [Model Checking Safety Properties of Distributed Railway Control Systems](http://www2.imm.dtu.dk/pubdb/edoc/imm6955.pdf). Jeg implementerede et program i F# til at assistere med at generere modeller af distribuerede tog kontrol systemer, disse modeller kunne herefter bruges i en Model Checker.
 
 **Diplom Ingeniør i Informations Teknologi** @ DTU _(sep 2009 - feb 2014)_
