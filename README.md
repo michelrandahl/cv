@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Michel Bøje Randahl Nielsen
 
-You can use the [editor on GitHub](https://github.com/michelrandahl/cv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+_Software Developer og pasioneret funcktionel programmør_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:michel@randahl.net) / [LinkedIn](www.linkedin.com/in/michel-randahl) / [GitHub](https://github.com/michelrandahl)
 
 ### Markdown
 
