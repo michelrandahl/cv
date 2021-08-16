@@ -19,7 +19,7 @@ Jeg nyder problem løsning alene såvel som i samarbejde med andre, og nyder bå
 - **_Teknologier:_** C#, Javascript, HTML5, MSSQL, ASP MVC
 
 **Værnepligt i søværnet, postbud** _(2006 - 2009)_
-- Omtrent 3 års pause efter gymnasiet, med fuldtidsarbejde som postbud og frivilig værnepligt i søværnet
+- Omtrent 3 års pause efter gymnasiet, med fuldtidsarbejde som postbud og frivilig værnepligt i søværnet.
 
 ## Uddannelse
 
@@ -30,14 +30,14 @@ Jeg nyder problem løsning alene såvel som i samarbejde med andre, og nyder bå
 - **_Speciale:_** [Model Checking Safety Properties of Distributed Railway Control Systems](http://www2.imm.dtu.dk/pubdb/edoc/imm6955.pdf). Jeg implementerede et program i F# til at assistere med at generere modeller af distribuerede tog kontrol systemer, disse modeller kunne herefter bruges i en Model Checker.
 
 **Diplom Ingeniør i Informations Teknologi** @ DTU _(sep 2009 - feb 2014)_
-- Denne uddannelse gav mig et godt teoretisk fundament og praktisk anvendelse af Computer Science generelt. Uddennelsen bestod af både individuelle studier samt gruppe projekter.
-- **_Praktik:_** hos Notiso.
+- Denne uddannelse gav mig et godt teoretisk fundament og praktisk anvendelse af Computer Science generelt. Uddannelsen bestod af både individuelle studier samt gruppe projekter.
+- **_Praktik:_** hos Noitso.
 - **_Speciale:_** Jeg viderudviklede en bolig simulator som nogle tidligere studerende havde implementeret i Scala, og ved hjælp af denne simulator udviklede jeg et system med et ANN (Artificial Neural Network) til at styre belysning i bygninger ud fra bevægelsesmønstre registreret af PIR sensorer.
 
 ## Kompetencer
 **Programmerings sprog**
 - *Clojure.* Har brugt det hver dag i mit arbejde hos Skatteministeriet/UFST.
-- *F#.* Mit foretrukne sprog til projekter og opgaver under min kandidat, -samt til fritids puzzle solving og små hobby projekter.
+- *F#.* Var mit foretrukne sprog til projekter og opgaver under min kandidat, -samt til fritids puzzle solving og små hobby projekter.
 - *Python.* Brugte det meget både på universitetet og i fritiden, og bruger det stadig end gang imellem til små hjælpe scripts.
 - *C#, JavaScript, HTML5.* Arbejdede meget med disse teknologier hos Noitso.
 - *Elm, Idris, Purescript, Elixir, Haskell.* Har læst/læser gerne bøger/blogs/tutorials fra tid til anden om disse sprog, men har aldrig brugt dem til noget seriøst.
