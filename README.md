@@ -31,7 +31,7 @@ I enjoy problem solving alone as well as in collaboration, and I enjoy learning 
 - A few of my favourite courses were 'Formal Aspects of Software Engineering', 'Stochastic Simulation', 'Fault Tolerant Systems', '
 Introduction to Machine Learning and Data Modeling' and 'Logical Systems and Logic Programming'.
 - While doing my master thesis, I also worked a little as TA in the course 'Formal Aspects of Software Engineering'.
-- I took one semester in Japan at [Tohoku University i Sendai](https://www.eng.tohoku.ac.jp/english/). During this semester I took various Computer Science related courses and worked on a 'surround camera vision' application in a Space Robotics lab.
+- I did one semester in Japan at [Tohoku University i Sendai](https://www.eng.tohoku.ac.jp/english/). During this semester I took various Computer Science related courses and worked in a Space Robotics lab, where I worked a bit on the initial work for an application for stitching together images from multiple cameras to create a sort of 'surround camera vision'.
 
 - **_Thesis:_** [Model Checking Safety Properties of Distributed Railway Control Systems](http://www2.imm.dtu.dk/pubdb/edoc/imm6955.pdf). I implemented a program in F# to assist with generating models of distributed control systems for railways. The resulting models were then used as input to a model checker program.
 
