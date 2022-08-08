@@ -1,56 +1,59 @@
 # Michel Bøje Randahl Nielsen
 
-_Software udvikler og passioneret funktionel programmør_
+_Software developer, passionate about functional programming_
 
-michel@randahl.net / Adr.: Holte, DK / Tlf.: 28681069 / [LinkedIn](www.linkedin.com/in/michel-randahl) / [GitHub](https://github.com/michelrandahl)
+michel@randahl.net / Addr.: Holte, DK / Tlf.: 28681069 / [LinkedIn](www.linkedin.com/in/michel-randahl) / [GitHub](https://github.com/michelrandahl)
 
 ## Profil
-Software udvikler med passion for funktionel programmering. Jeg har mere end 4 års praktisk erfaring med funktionel programmering. Derudover har jeg siden min studie tid været nysgerrig på funktionel programmering stort set helt fra start af, og har nydt at lære om emnet både i min fritid og på universitetet. Jeg er især tiltrukket af at kunne skrive kode som er pålidelig, korrekt og let at vedligeholde.
-Yderligere har jeg omtrent 3 års erfaring med at skrive og designe software til deploering i AWS (Amazon Web Services) og generel troubleshooting af kørende applikationer på AWS.
-Jeg nyder problem løsning alene såvel som i samarbejde med andre, og nyder både at lære fra mig samt at lære fra andre.
+Software developer with a passion for functional programming. I have more than 5 years practical experience working professionally with functional programming, and on top of that I've spend a significant amount of spare time learning and playing around with various functional programming languages. My passion for functional programming started slowly at University at the time when I took introductory level courses in Logic programming and Functional programming. However, the University that I studied at had very limited course offerings related to functional programming, so most of my knowledge is self-taught in my spare time. What attracts me to functional programming is especially to be able to write reliable and transparent code.
+Besides Functional programming, I have approximate 3-4 years of experience working with AWS.
+I enjoy problem solving alone as well as in collaboration, and I enjoy learning from others as well as teaching others.
 
 ## Ansættelses historik
-**Software udvikler** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(jan 2017 - nu)_
-- Jeg har arbejdet på Skatteministeriets (UFST) projekt for nye ejendomsvurderinger siden 2017. Det overordnede mål for dette projekt er at bygge en applikation som kan rette op på de meget gamle ejendomsvurderinger og dermed opnå et mere korrekt skatte grundelag. I løbet af dette projekt har jeg bla. arbejdet med diverse data flows, data API'er, event sourcing, data verificering, backend implementeringer til en sagbehandling frontend, diverse bugfixes/defects, opgradering af biblioteker med sikkerhedshuller, design af nye løsninger, implementering af logging, og meget andet... Jeg har iløbet af dette projekt haft stor fornøjelse af at arbejde sammen med og lære fra en masse andre kompetente Clojure- og funktionel-programmering entusiastiske udviklere. Derudover har arbejdet også involveret samarbejde og kommunikation med statistikkere, advokater, foretnings analytikere, sikkerhedsfolk og testere.
-- **_Teknologier:_** Clojure, ClojureScript, AWS, Postgresql, MSSQL, Cassandra, Event Sourcing, Docker, Bash, Linux, Jenkins.
+**Software udvikler** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(jan 2017 - nov 2021)_
+- I worked at a project for future valuation and taxation of Danish properties. The taxation of properties is an area which has been grossly neglected for many years in Denmark, and as such the project is of much importance to the Dansih society. At the project I had the honour of working together with a big team of passionate Clojure developers. My work mostly evolved around developing and reviewing code for the backend parts of the application that the case workes will use. Amongst others I worked on various ETL jobs and API's all running in AWS. I also did a tiny bit of frontend development (ClojureScript) and some DevOps related work for deploying and running our applications in AWS.
+- **_Technologies:_** Clojure, ClojureScript, AWS, Postgresql, MSSQL, Cassandra, Event Sourcing, Docker, Bash, Linux, Jenkins.
 
-**Praktikant (Software udvikler)** @ [Noitso](https://www.noitso.dk/) _(feb 2013 - aug 2014)_
-- Var med til at bygge en CRM løsning fra bunden af, og var med ude at snakke med potentielle kunder og hjælpe eksisterende kunder med systemet.
-- **_Teknologier:_** C#, Javascript, HTML5, MSSQL, ASP MVC
+**Intern (Software developer)** @ [Noitso](https://www.noitso.dk/) _(feb 2013 - aug 2014)_
+- Took part in developing a CRM solution from scratch and provide support to the customers of the CRM solution.
+- **_Technologies:_** C#, Javascript, HTML5, MSSQL, ASP MVC
 
-**Værnepligt i søværnet, postbud** _(2006 - 2009)_
-- Omtrent 3 års pause efter gymnasiet, med fuldtidsarbejde som postbud og frivilig værnepligt i søværnet.
+**Military Service in the Royal Danish Navy, postman** _(2006 - 2009)_
+- Approximately 3 years break from gymnasie where I was employed fulltime as a postman, and volounteered for 5 months of military service in the Royal Danish Navy.
 
-## Uddannelse
+## Education
 
-**Kandidat i Computer Science and Engineering** @ [DTU](https://www.dtu.dk/english/education/msc/programmes/computer_science_and_engineering) _(feb 2014- okt 2016)_
-- Et par af favorit kurserne var 'Formal Aspects of Software Engineering', 'Stochastic Simulation' og 'Fault Tolerant Systems'.
-- Samtidig med mit speciale arbejdede jeg lidt som hjælpe lærer i kurset 'Formal Aspects of Software Engineering'.
-- Jeg tog et semester i Japan på [Tohoku University i Sendai](https://www.eng.tohoku.ac.jp/english/). Her tog jeg kurser inden for computer science og arbejdede på et projekt i et Space Robotics laboratory.
-- **_Speciale:_** [Model Checking Safety Properties of Distributed Railway Control Systems](http://www2.imm.dtu.dk/pubdb/edoc/imm6955.pdf). Jeg implementerede et program i F# til at assistere med at generere modeller af distribuerede tog kontrol systemer, disse modeller kunne herefter bruges i en Model Checker.
+**Msc in Computer Science and Engineering** @ [DTU](https://www.dtu.dk/english/education/msc/programmes/computer_science_and_engineering) _(feb 2014- okt 2016)_
+- A few of my favourite courses were 'Formal Aspects of Software Engineering', 'Stochastic Simulation', 'Fault Tolerant Systems', '
+Introduction to Machine Learning and Data Modeling' and 'Logical Systems and Logic Programming'.
+- While doing my master thesis, I also worked a little as TA in the course 'Formal Aspects of Software Engineering'.
+- I took one semester in Japan at [Tohoku University i Sendai](https://www.eng.tohoku.ac.jp/english/). During this semester I took various Computer Science related courses and worked on a 'surround camera vision' application in a Space Robotics lab.
 
-**Diplom Ingeniør i Informations Teknologi** @ DTU _(sep 2009 - feb 2014)_
-- Denne uddannelse gav mig et godt teoretisk fundament og praktisk anvendelse af Computer Science generelt. Uddannelsen bestod af både individuelle studier samt gruppe projekter.
-- **_Praktik:_** hos Noitso.
-- **_Speciale:_** Jeg viderudviklede en bolig simulator som nogle tidligere studerende havde implementeret i Scala, og ved hjælp af denne simulator udviklede jeg et system med et ANN (Artificial Neural Network) til at styre belysning i bygninger ud fra bevægelsesmønstre registreret af PIR sensorer.
+- **_Thesis:_** [Model Checking Safety Properties of Distributed Railway Control Systems](http://www2.imm.dtu.dk/pubdb/edoc/imm6955.pdf). I implemented a program in F# to assist with generating models of distributed control systems for railways. The resulting models were then used as input to a model checker program.
 
-## Kompetencer
-**Programmerings sprog**
-- *Clojure.* Har brugt det hver dag i mit arbejde hos Skatteministeriet/UFST.
-- *F#.* Var mit foretrukne sprog til projekter og opgaver under min kandidat, -samt til fritids puzzle solving og små hobby projekter.
-- *Python.* Brugte det meget både på universitetet og i fritiden, og bruger det stadig end gang imellem til små hjælpe scripts.
-- *C#, JavaScript, HTML5.* Arbejdede meget med disse teknologier hos Noitso.
-- *Elm, Idris, Purescript, Elixir, Haskell.* Har læst/læser gerne bøger/blogs/tutorials fra tid til anden om disse sprog, men har aldrig brugt dem til noget seriøst.
-- *C, Java, Scala, Assembly, Prolog, VHDL.* Stiftede bekendskab med disse teknologier iløbet af min bachelor.
+**BEng Information Technology** @ DTU _(sep 2009 - feb 2014)_
+- This education provided me with a great theoretical foundation as well as practical use of Computer Science. The Education consisted of both individual studies and group projects.
+- **_Internship:_** at Noitso.
+- **_Thesis:_** I continued some development on a simulator project coded in Scala by some other students. And next to that I learned about ANN (Artificial Neural Network) and developed an ANN based system for controlling lighting in houses based on movement patterns registered by PIR sensors which was then tested using the simulator.
 
-**Andre teknologier**
-- *MSSQL, Cassandra, Postgres.* Har brugt disse database teknologier i diverse software implementationer i løbet af min tid hos Noitso og UFST
-- *Git, Github.* Bruger disse værktøjer hver dag
-- *AWS.* Har lavet implementationer med ECS, Fargate, Lambda, Cloudformation, Cloudwatch, SNS, SQS og S3, som en del af arbejdet i UFST
-- *Docker, Jenkins.* Har arbejdet en smule med disse teknologier i UFST
-- *Linux, Debian, NixOs.* Jeg startede langsomt på at bruge Linux da jeg startede på universitetet, og har de sidste 5-6 års tid udelukkende brugt Linux -hjemme, på studiet og på arbejdet
+## Competences
+**Programming languages**
+- *Clojure.* Used it extensively at my job at Skatteministeriet/UFST.
+- *F#.* Was my prefered language for assignments during my master studies as well as for freetime puzzle solving and hobby projects.
+- *Python.* Used it a lot at University for assignments and in my freetime.
+- *C#, JavaScript, HTML5.* Worked a lot with these technologies during my internship at Noitso.
+- *Elm, Idris, Purescript.* I like to read about and study these languages. I especially like Purescript and Idris. I have yet to create any projects in these languages.
+- *C, Java, Scala, Assembly, Prolog, VHDL.* learned and used these languages at university, but haven't used them much outside of University.
 
-## Hobbyer
-- Jeg spiller musik: syntheseizere, samplere, trommemaskiner, lidt klaver, lidt klassisk guitar.
-- Natur: Gå/løbe ture i skoven, kayak på søerne eller til havs.
-- Blive klogere på teknologier: For nyligt har jeg læst en bog om Elm samt kodet en lille applikation i Elm, og senest er jeg startet på en bog om Purescript og en anden bog om Haskell. Jeg har altid mange bøger liggende som jeg gerne vil have læst.
+**Other Technologies**
+- *MSSQL, Cassandra, Postgres.* Used these technologies as part of various software implementations at Noitso and UFST.
+- *Git, Github.* I've been using these tools everyday since I started at UFST.
+- *AWS.* I have created implementations that use ECS, Fargate, Lambda, Cloudformation, Cloudwatch, SNS, SQS og S3, as part of the work at UFST.
+- *Docker, Jenkins, terraform.* I have occasionally worked a little with these technologies at UFST.
+- *Linux, Debian, NixOs.* I slowly started using Linux on my personal computers during my time at University, and for the past 6-7 years I have preffered using Linux over any other operating system both on my own laptops and work laptops.
+
+## Hobbies
+- I play music: syntheseizers, samplers, grooveboxes, a little bit of piano and a bit of classical guitar in the past.
+- I recently got into DIY syntheseizer electronics and have successfully soldered a few syntheseizer modules so far.
+- Nature: I enjoy long walks or running in the nearby forests, and just before Corona I learned a bit of sea-kayaking and got a 'sea kayaking' certificate which I am looking forward to use more in the future.
+- Learning more about specific programming technologies and hobby coding: Currently I especially enjoy learning about Purescript and besides that I done a bit of hobby coding in ClojureScript and Elm.
