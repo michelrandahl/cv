@@ -1,12 +1,12 @@
 # Michel Bøje Randahl Nielsen
 
-_Software developer, passionate about functional programming_
+_Software developer, passionate about Functional Programming_
 
 michel@randahl.net / Addr.: Holte, DK / Tlf.: 28681069 / [LinkedIn](www.linkedin.com/in/michel-randahl) / [GitHub](https://github.com/michelrandahl)
 
 ## Profile
-Software developer with a passion for functional programming. I have more than 5 years practical experience working professionally with functional programming, and on top of that I've spend a significant amount of spare time learning and playing around with various functional programming languages. My passion for functional programming started slowly at University at the time when I took introductory level courses in Logic programming and Functional programming. However, the University that I studied at had very limited course offerings related to functional programming, so most of my knowledge is self-taught in my spare time. What attracts me to functional programming is especially to be able to write reliable and transparent code.
-Besides Functional programming, I have approximate 3-4 years of experience working with AWS.
+Software developer with a passion for Functional Programming (FP). I have more than 5 years practical experience working professionally with FP, and on top of that I've spend a significant amount of spare time learning and playing around with various FP languages. My passion for FP started slowly at University at the time when I took introductory level courses in Logic programming and Functional Programming. However, the University that I studied at had very limited course offerings related to FP, so most of my knowledge is self-taught in my spare time. What attracts me to FP is especially to be able to write reliable and transparent code.
+Besides FP, I have approximate 3-4 years of experience working with AWS and I've enjoyed using Linux both for work and hobbies for about 6-7 years.
 I enjoy problem solving alone as well as in collaboration, and I enjoy learning from others as well as teaching others.
 
 ## History of Employment
