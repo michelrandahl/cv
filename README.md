@@ -4,13 +4,17 @@ _Software developer, passionate about functional programming_
 
 michel@randahl.net / Addr.: Holte, DK / Tlf.: 28681069 / [LinkedIn](www.linkedin.com/in/michel-randahl) / [GitHub](https://github.com/michelrandahl)
 
-## Profil
+## Profile
 Software developer with a passion for functional programming. I have more than 5 years practical experience working professionally with functional programming, and on top of that I've spend a significant amount of spare time learning and playing around with various functional programming languages. My passion for functional programming started slowly at University at the time when I took introductory level courses in Logic programming and Functional programming. However, the University that I studied at had very limited course offerings related to functional programming, so most of my knowledge is self-taught in my spare time. What attracts me to functional programming is especially to be able to write reliable and transparent code.
 Besides Functional programming, I have approximate 3-4 years of experience working with AWS.
 I enjoy problem solving alone as well as in collaboration, and I enjoy learning from others as well as teaching others.
 
-## Ansættelses historik
-**Software udvikler** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(jan 2017 - nov 2021)_
+## History of Employment
+**Software developer** @ Criipto A/S _(dec 2021 - now)_
+- I worked on Stripe integration for handling of payments and besides that I worked a project for signing documents with E-ID as well as a small demo application for showcasing the implementation of the 'Verify' product in a ClojureScript application.
+- **_Technologies:_** F# (Fable, Elmish), C#, JavaScript, NodeJS, ClojureScript (Re-frame), Azure.
+
+**Software developer** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(jan 2017 - nov 2021)_
 - I worked at a project for future valuation and taxation of Danish properties. The taxation of properties is an area which has been grossly neglected for many years in Denmark, and as such the project is of much importance to the Dansih society. At the project I had the honour of working together with a big team of passionate Clojure developers. My work mostly evolved around developing and reviewing code for the backend parts of the application that the case workes will use. Amongst others I worked on various ETL jobs and API's all running in AWS. I also did a tiny bit of frontend development (ClojureScript) and some DevOps related work for deploying and running our applications in AWS.
 - **_Technologies:_** Clojure, ClojureScript, AWS, Postgresql, MSSQL, Cassandra, Event Sourcing, Docker, Bash, Linux, Jenkins.
 
@@ -54,6 +58,6 @@ Introduction to Machine Learning and Data Modeling' and 'Logical Systems and Log
 
 ## Hobbies
 - I play music: syntheseizers, samplers, grooveboxes, a little bit of piano and a bit of classical guitar in the past.
-- I recently got into DIY syntheseizer electronics and have successfully soldered a few syntheseizer modules so far.
+- I recently got into DIY syntheseizer electronics and have so far successfully soldered a few educational kits for syntheseizer modules. I dream about making my own hardware some day.
 - Nature: I enjoy long walks or running in the nearby forests, and just before Corona I learned a bit of sea-kayaking and got a 'sea kayaking' certificate which I am looking forward to use more in the future.
 - Learning more about specific programming technologies and hobby coding: Currently I especially enjoy learning about Purescript and besides that I done a bit of hobby coding in ClojureScript and Elm.
