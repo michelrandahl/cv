@@ -58,6 +58,6 @@ Introduction to Machine Learning and Data Modeling' and 'Logical Systems and Log
 
 ## Hobbies
 - I play music: syntheseizers, samplers, grooveboxes, a little bit of piano and a bit of classical guitar in the past.
-- I recently got into DIY syntheseizer electronics and have so far successfully soldered a few educational kits for syntheseizer modules. I dream about making my own hardware some day.
+- I recently got into DIY syntheseizer electronics and have so far successfully soldered a few educational kits for syntheseizer modules. I dream about designing and making my own hardware some day.
 - Nature: I enjoy long walks or running in the nearby forests, and just before Corona I learned a bit of sea-kayaking and got a 'sea kayaking' certificate which I am looking forward to use more in the future.
 - Learning more about specific programming technologies and hobby coding: These days, I especially enjoy learning about Purescript, and besides that, I've done a bit of hobby coding in ClojureScript and Elm.
