@@ -58,7 +58,7 @@ Introduction to Machine Learning and Data Modeling' and 'Logical Systems and Log
 - *Linux, Debian, NixOs.* I slowly started using Linux on my personal computers during my time at University, and for the past 6-7 years I have preffered using Linux over any other operating system both on my own laptops and work laptops. On my Personal laptops I've been using NixOs for a few years, and quite enjoy it.
 
 ## Hobbies
-- [I play music](https://soundcloud.com/michel-nielsen-478124668): syntheseizers, samplers, grooveboxes, a little bit of piano and some classical guitar in the past.
+- [I play music](https://soundcloud.com/michel-nielsen-478124668/tracks): DAWless, syntheseizers, samplers, grooveboxes, a little bit of piano and some classical guitar in the past.
 - I recently got into DIY syntheseizer electronics and have so far successfully soldered a few educational syntheseizer module kits. I dream about designing and making my own music hardware some day.
 - Nature: I enjoy long walks or running in the nearby forests, and just before Corona I learned a bit of sea-kayaking and got a 'sea kayaking' certificate which I am looking forward to use more in the future.
 - Learning more about specific programming technologies and hobby coding: These days, I especially enjoy learning about Purescript, and besides that, I've done a bit of hobby coding in ClojureScript and Elm.
