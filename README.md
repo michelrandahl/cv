@@ -24,7 +24,7 @@ When it comes to designing and writing software, I value simplicity and correctn
 - **_Technologies:_** C#, Javascript, HTML5, MSSQL, ASP MVC
 
 **Military Service in the Royal Danish Navy, postman** _(2006 - 2009)_
-- Approximately 3 years break from gymnasie where I was employed fulltime as a postman, and volounteered for 5 months of military service in the Royal Danish Navy.
+- Approximately 3 years break from gymnasie. Working as a postman, and volounteered for 4-5 months of military service in the Royal Danish Navy.
 
 ## Education
 
