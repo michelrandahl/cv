@@ -5,18 +5,18 @@ _Software developer, passionate about Functional Programming_
 michel@randahl.net / Addr.: Holte, DK / Phone.: 28681069 / [LinkedIn](www.linkedin.com/in/michel-randahl) / [GitHub](https://github.com/michelrandahl)
 
 ## Profile
-Software developer with a passion for Functional Programming (FP). I have more than 5 years practical experience working professionally with FP, and on top of that I've spend a significant amount of spare time learning and playing around with various FP languages. My passion for FP started slowly at University at the time when I took introductory level courses in Logic Programming and Functional Programming. However, the University that I studied at had very limited course offerings related to FP, so most of my knowledge is self-taught in my spare time. What attracts me to FP is especially to be able to write code that is reliable, transparent and concise, which in my opinion all are factors that leads to more correct and maintainable software.
-Besides FP, I have approximate 3-4 years of experience working with AWS and I've enjoyed using Linux both for work and hobbies for about 6-7 years.
+Software developer with a passion for Functional Programming (FP). I have more than 5 years practical experience working professionally with FP, and on top of that I've spend a significant amount of spare time learning and playing around with various FP languages. My passion for FP started slowly at University at the time when I took introductory level courses in Logic Programming and Functional Programming. However, the University that I studied at had very limited course offerings related to FP, so most of my knowledge is self-taught in my spare time and learned from others at work. What attracts me to FP is especially to be able to write code that is reliable, transparent and concise, which in my opinion all are factors that leads to more correct and maintainable software.
+Besides FP, I have approximate 3-4 years of experience working with AWS and I've enjoyed using Linux both for work and hobbies for about 7 years.
 I enjoy problem solving alone as well as in collaboration, and I enjoy learning from others as well as teaching others.
 When it comes to designing and writing software, I value simplicity and correctness.
 
 ## History of Employment
 **Software developer** @ Criipto A/S _(dec 2021 - now)_
 - I worked on maintaining and extending a Stripe integration for handling of payments, and besides that I worked a project for signing documents with E-ID as well as a small demo application for showcasing the implementation of the 'Verify' E-ID product in a ClojureScript context.
-- **_Technologies:_** F# (Fable, Elmish), C#, JavaScript, NodeJS, ClojureScript (Re-frame), Azure.
+- **_Technologies:_** F# (Fable, Elmish), C#, NodeJS, Typescript, React, ClojureScript (Re-frame), Azure.
 
 **Software developer** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(jan 2017 - nov 2021)_
-- I worked at a project for future valuation and taxation of Danish properties. The taxation of properties is an area which has been grossly neglected for many years in Denmark, and as such the project is of much importance to the Danish society. At the project I had the honour of working together with a big team of passionate Clojure developers. My work mostly evolved around developing and reviewing code for the backend parts of the application that the case workers will use. Amongst others I worked on the Event sourcing implementation, implemented various sorts of ETL jobs and worked on API's. I also did a tiny bit of frontend development (ClojureScript) and some DevOps related work for deploying and running our applications in AWS.
+- I worked at a project for future valuation and taxation of Danish properties. The taxation of properties is an area which has been grossly neglected for many years in Denmark, and as such the project is of much importance to the Danish society. At the project I had the honour of working together with a big team of passionate Clojure developers. My work mostly evolved around developing and reviewing code for the backend parts of the application which the case workers will use. Amongst others I worked on the Event sourcing implementation, implemented various sorts of ETL jobs and worked on API's. I also did a tiny bit of frontend development (ClojureScript) and some DevOps related work for deploying and running our applications in AWS.
 - **_Technologies:_** Clojure, ClojureScript, AWS, Postgresql, MSSQL, Cassandra, Event Sourcing, Docker, Bash, Linux, Jenkins.
 
 **Intern (Software developer)** @ [Noitso](https://www.noitso.dk/) _(feb 2013 - aug 2014)_
@@ -58,7 +58,7 @@ Introduction to Machine Learning and Data Modeling' and 'Logical Systems and Log
 - *Linux, Debian, NixOs.* I slowly started using Linux on my personal computers during my time at University, and for the past 6-7 years I have preffered using Linux over any other operating system both on my own laptops and work laptops. On my Personal laptops I've been using NixOs for a few years, and quite enjoy it.
 
 ## Hobbies
-- [I play music](https://soundcloud.com/michel-nielsen-478124668/tracks): DAWless, syntheseizers, samplers, grooveboxes, a little bit of piano and some classical guitar in the past.
+- [I play music](https://soundcloud.com/michel-nielsen-478124668/tracks): DAWless, syntheseizers, samplers, a little bit of piano and some classical guitar in the past.
 - I recently got into DIY syntheseizer electronics and have so far successfully soldered a few educational syntheseizer module kits. I dream about designing and making my own music hardware some day.
 - Nature: I enjoy long walks or running in the nearby forests, and just before Corona I learned a bit of 'sea kayaking' and got a 'sea kayaking' certificate (IPP2) which I am looking forward to use more in the future.
 - Learning more about specific programming technologies and hobby coding: These days, I especially enjoy learning about Purescript, and besides that, I've done a bit of hobby coding in ClojureScript and Elm.
