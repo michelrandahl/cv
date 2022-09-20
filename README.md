@@ -10,9 +10,9 @@ Besides FP, I have approximate 3-4 years of experience working with AWS and I've
 I enjoy problem solving alone as well as in collaboration, and I enjoy learning from others as well as teaching others.
 
 ## History of Employment
-**Software developer** @ Criipto A/S _(dec 2021 - now)_
-- I primarily worked on maintaining and extending a Stripe integration for handling of subscriptions, and besides that I worked a project for signing documents with E-ID as well as a small demo application for showcasing the implementation of the 'Verify' E-ID product in a ClojureScript context.
-- **_Technologies:_** F# (Fable, Elmish), C#, NodeJS, Typescript, React, ClojureScript (Re-frame), Azure.
+**Software developer** @ Criipto ApS _(dec 2021 - now)_
+- I primarily worked on maintaining and extending a NodeJS Stripe integration for handling of subscriptions, and besides that I worked on a F#/Fable project for signing documents with E-ID as well as a small demo application for showcasing the implementation of the 'Verify' E-ID product in a ClojureScript(Re-frame) context.
+- **_Technologies:_** F# (Fable, Elmish), C#, NodeJS, React, ClojureScript (Re-frame), Azure.
 
 **Software developer** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(jan 2017 - nov 2021)_
 - I worked at a project for future valuation and taxation of Danish properties. The taxation of properties is an area which has been grossly neglected for many years in Denmark, and as such the project is of much importance to the Danish society. At the project I had the honour of working together with a big team of passionate Clojure developers. My work mostly evolved around developing and reviewing code for the backend parts of the application which the case workers will use. Amongst others I worked on the Event sourcing implementation, implemented various sorts of ETL jobs and worked on API's. I also did a tiny bit of frontend development (ClojureScript) and some DevOps related work for deploying and running our applications in AWS.
@@ -29,7 +29,7 @@ I enjoy problem solving alone as well as in collaboration, and I enjoy learning 
 
 **Msc in Computer Science and Engineering** @ [DTU](https://www.dtu.dk/english/education/msc/programmes/computer_science_and_engineering) _(feb 2014- okt 2016)_
 - A few of my favourite courses were 'Formal Aspects of Software Engineering', 'Stochastic Simulation', 'Fault Tolerant Systems', '
-Introduction to Machine Learning and Data Modeling' and 'Logical Systems and Logic Programming'.
+Introduction to Machine Learning and Data Modeling'.
 - While doing my master thesis, I also worked a little as TA in the course 'Formal Aspects of Software Engineering'.
 - I did one semester in Japan at [Tohoku University i Sendai](https://www.eng.tohoku.ac.jp/english/). During this semester I took various Computer Science related courses and worked on a small project in a Space Robotics Lab.
 
@@ -53,11 +53,11 @@ Introduction to Machine Learning and Data Modeling' and 'Logical Systems and Log
 - *MSSQL, Cassandra, Postgres.* Used these technologies as part of various software implementations at Noitso and UFST.
 - *Git, Github.* I've been using these tools everyday since I started at UFST.
 - *AWS.* I have created implementations that use ECS, Fargate, Lambda, Cloudformation, Cloudwatch, SNS, SQS og S3, as part of the work at UFST.
-- *Docker, Jenkins, terraform.* I have occasionally worked with these technologies at UFST.
+- *Docker, Jenkins, terraform.* I have occasionally worked with these technologies at UFST, but mostly just have surface level knowledge of these technologies.
 - *Linux, Debian, NixOs.* I slowly started using Linux on my personal computers during my time at University, and for the past 7-8 years I have preffered using Linux over any other operating system both on my own laptops and work laptops. I am addicted to the terminal and keyboard-only workflows. On my Personal laptops I've been using NixOs for a few years, and quite enjoy it although I've mostly just used some of the very basic features that it provides.
 
 ## Hobbies
 - [I play music](https://soundcloud.com/michel-nielsen-478124668/tracks): DAWless, syntheseizers, samplers, a little bit of piano and some classical guitar in the past.
-- I recently got into DIY syntheseizer electronics and have so far successfully soldered a few educational syntheseizer module kits. I dream about designing and making my own music hardware some day.
+- I recently got into DIY syntheseizer electronics and have so far successfully assembled and soldered a few educational syntheseizer module kits. I dream about designing and making my own music hardware some day.
 - Nature: I enjoy long walks or running in the nearby forests, and just before Corona I learned a bit of 'sea kayaking' and got a 'sea kayaking' certificate (IPP2) which I am looking forward to use more in the future.
 - Learning more about specific programming languages, technologies and hobby coding: These days, I especially enjoy learning about Purescript, and besides that, I've done a little bit of hobby coding in ClojureScript and Elm. I would also very much like to learn about and dig deeper into Nix/NixOs, Elixir, Haskell and perhaps Rust.
