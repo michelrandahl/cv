@@ -47,14 +47,14 @@ Introduction to Machine Learning and Data Modeling'.
 - *Python, Hylang.* Used Python a lot at University for assignments and in my freetime.
 - *C#, JavaScript.* Worked with these languages during my internship at Noitso, and again later at Criipto.
 - *Elm, Idris, Purescript.* I like to read about and study these languages. I especially like Purescript and Idris. I have yet to create anything serious with these languages.
-- *C, Java, Scala, Assembly, Prolog, VHDL.* Have surface level knowledge of these languages as I learned about and used them at University.
+- *C, Java, Scala, Assembly, Prolog, VHDL.* Have light experience with these languages as I learned about and used them at University.
 
 **Other Technologies**
 - *MSSQL, Cassandra, Postgres.* Used these technologies as part of various software implementations at Noitso and UFST.
-- *Git, Github.* I've been using these tools everyday since I started at UFST.
+- *Git, Github.* I've been using these tools everyday at UFST and Criipto.
 - *AWS.* I have created implementations that use ECS, Fargate, Lambda, Cloudformation, Cloudwatch, SNS, SQS og S3, as part of the work at UFST.
 - *Docker, Jenkins, terraform.* I have occasionally worked with these technologies at UFST, but mostly just have light experience with these technologies.
-- *Linux, Debian, NixOs.* I began using Linux on my personal computers at University, and for the past 7-8 years I have preffered using Linux over any other operating system on my own laptops and work laptops. I am addicted to the terminal, Vim/Neovim and keyboard-only workflows. On my Personal laptops I've been using NixOs for a few years, and quite enjoyed it, although I only have used some of the simple features that it provides.
+- *Linux, Debian, NixOs.* I began using Linux on my personal computers at University, and for the past 7-8 years I have preffered using Linux on my own laptops and work laptops. I am addicted to the terminal, Vim/Neovim and keyboard-only workflows. On my Personal laptops I've been using NixOs for a few years, and quite enjoyed it. I have mostly just used the basic functionality that Nix/NixOs provides, but would like to learn more.
 
 ## Hobbies
 - [I play music](https://soundcloud.com/michel-nielsen-478124668/tracks): A few years ago I started to get into DAWless, syntheseizers, samplers, Eurorack, and learning bit of piano and music theory. I don't have any big ambitions with it except learning, jamming and enjoying myself.
