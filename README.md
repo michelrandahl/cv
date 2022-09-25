@@ -11,7 +11,7 @@ I enjoy problem solving alone as well as in collaboration, and I enjoy learning 
 
 ## History of Employment
 **Software developer** @ Criipto ApS _(dec 2021 - now)_
-- I worked on maintaining and extending a NodeJS Stripe integration for handling of subscriptions, a F#/Fable project for signing documents with E-ID, and  a demo application for showcasing the implementation of the 'Verify' E-ID product in a ClojureScript(Re-frame) context.
+- I worked on maintaining and extending a NodeJS Stripe integration for handling of customer subscriptions and usage registration, a F#/Fable project for signing documents with E-ID, and  a demo application for showcasing the implementation of the 'Verify' E-ID product in a ClojureScript(Re-frame) context.
 - **_Technologies:_** F# (Fable, Elmish), C#, NodeJS, React, ClojureScript (Re-frame), Azure.
 
 **Software developer** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(jan 2017 - nov 2021)_
