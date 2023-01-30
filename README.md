@@ -5,21 +5,20 @@ _Software developer, passionate about Functional Programming_
 michel@randahl.net / Addr.: Holte, DK / Phone.: 28681069 / [LinkedIn](www.linkedin.com/in/michel-randahl) / [GitHub](https://github.com/michelrandahl)
 
 ## Profile
-Software developer with a passion for Functional Programming (FP). I have more than 5 years practical experience working professionally with FP, and on top of that I've spend a significant amount of spare time learning and playing around with various FP languages. What especially attracts me to FP is to be able to write code that is reliable, transparent and concise, which in my opinion all are factors that leads to more correct and maintainable software.
-Besides FP, I have approximate 3-4 years of experience working with AWS and I've been using Linux both for work and hobbies for more than 7 years.
-I enjoy problem solving alone as well as in collaboration, and I enjoy learning from others as well as teaching others.
+I am a Software Developer with a strong passion for Functional Programming (FP), with over 6 years of experience in FP. I have solid understanding of FP principles, honed through both professional experience and spare time studies, and I am particularly drawn to its ability to produce reliable, transparent, and concise code.
+Additionally, I have 3 years of experience using AWS and I have been using Linux for 8 years across work, study, and hobbies. I enjoy tackling complex problems both individually and as part of a team, and enjoy learning from others as well as sharing my knowledge with others. I strive to create simple, maintainable, and robust solutions.
 
 ## History of Employment
-**Software developer** @ Criipto ApS _(dec 2021 - now)_
-- I worked on maintaining and extending a NodeJS Stripe integration for handling of customer subscriptions and usage registration, a F#/Fable project for signing documents with E-ID, and  a demo application for showcasing the implementation of the 'Verify' E-ID product in a ClojureScript(Re-frame) context.
-- **_Technologies:_** F# (Fable, Elmish), C#, NodeJS, React, ClojureScript (Re-frame), Azure.
+**Software developer** @ Criipto _(dec 2021 - now)_
+- At Criipto, a broker for E-ID solutions like Danish MitID and Norwegian BankID, I worked on a range of projects. Amongst others Stripe integration, audit logging, and maintainance of existing systems.
+- **_Technologies:_** F#, C#, NodeJS, React, Azure, Bicep.
 
 **Software developer** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(jan 2017 - nov 2021)_
-- I worked at a project for future valuation and taxation of Danish properties. The taxation of properties is an area which has been grossly neglected for many years in Denmark, and as such the project is of much importance to the Danish society. At the project I had the honour of working together with a big team of passionate Clojure developers. My work mostly evolved around developing and reviewing code for the backend parts of the application which the case workers will use. Amongst others I worked on the Event sourcing implementation, implemented various sorts of ETL jobs and worked on API's. I also did a tiny bit of frontend development (ClojureScript) and some DevOps related work for deploying and running our applications in AWS.
-- **_Technologies:_** Clojure, ClojureScript, AWS, Postgresql, MSSQL, Cassandra, Event Sourcing, Docker, Bash, Linux, Jenkins.
+- At Skatteministeriet/UFST, I was part of a project aimed at improving the future valuation and taxation of Danish properties, a crucial initiative for the Danish society after years of neglect in this area. I collaborated with a skilled team of Clojure developers and was involved in the development and review of the backend code for the application used by case workers. My key contributions included working on the event sourcing implementation, designing and implementing various ETL jobs, and working on API implementations. I also contributed to some of the DevOps tasks and dipped my toes into frontend development with ClojureScript.
+- **_Technologies:_** Clojure, ClojureScript, AWS, Terraform, Postgresql, Cassandra, Event Sourcing, Docker, Bash, Linux, Jenkins.
 
 **Intern (Software developer)** @ [Noitso](https://www.noitso.dk/) _(feb 2013 - aug 2014)_
-- Took part in developing a CRM solution from scratch and provide support to the users of the CRM solution.
+- Took part in the development of a CRM solution and provide support to the users of the CRM solution.
 - **_Technologies:_** C#, Javascript, HTML5, MSSQL, ASP MVC
 
 **Military Service in the Royal Danish Navy, postman** _(2006 - 2009)_
@@ -28,36 +27,35 @@ I enjoy problem solving alone as well as in collaboration, and I enjoy learning 
 ## Education
 
 **Msc in Computer Science and Engineering** @ [DTU](https://www.dtu.dk/english/education/msc/programmes/computer_science_and_engineering) _(feb 2014- okt 2016)_
-- A few of my favourite courses were 'Formal Aspects of Software Engineering', 'Stochastic Simulation', 'Fault Tolerant Systems', '
-Introduction to Machine Learning and Data Modeling'.
+- I took courses such as 'Formal Aspects of Software Engineering', 'Stochastic Simulation', 'Fault Tolerant Systems' and 'Social data analysis and visualization'.
 - While doing my master thesis, I also worked a little as TA in the course 'Formal Aspects of Software Engineering'.
-- I did one semester in Japan at [Tohoku University i Sendai](https://www.eng.tohoku.ac.jp/english/). During this semester I took various Computer Science related courses and worked on a small project in a Space Robotics Lab.
-
+- I did one semester in Japan at [Tohoku University i Sendai](https://www.eng.tohoku.ac.jp/english/). During this semester I took various Computer Science related courses and worked on a project in a Space Robotics Lab.
 - **_Thesis:_** [Model Checking Safety Properties of Distributed Railway Control Systems](http://www2.imm.dtu.dk/pubdb/edoc/imm6955.pdf). I implemented a program in F# to assist with generating models of distributed control systems for railways. The resulting models were then used as input to a model checker.
 
 **BEng Information Technology** @ DTU _(sep 2009 - feb 2014)_
-- This bachelor provided me with a great theoretical foundation as well as practical uses of Computer Science. The studies consisted of both individual  and group projects.
+- This bachelor provided me with a great theoretical foundation as well as practical uses of Computer Science. The studies consisted of both individual work and group projects.
 - **_Internship:_** at Noitso.
-- **_Thesis:_** I continued some development on a simulator project coded in Scala by some other students. And next to that I implemented an ANN based system for controlling lighting in houses based on movement patterns registered by PIR sensors which was then tested using the simulator.
+- **_Thesis:_** I implemented an ANN based system for controlling lighting in houses based on movement patterns registered by PIR sensors which was then tested in a simulator.
 
 ## Competences
 **Programming languages**
-- *Clojure.* Used it every day at my job at Skatteministeriet/UFST.
-- *F#.* Was my prefered language for assignments during my master studies as well as for freetime puzzle solving and hobby projects.
+- *Clojure.* Worked with it every day at my job at Skatteministeriet/UFST.
+- *F#.* One of my preffered languages at University, and used it later again in a professional context at Criipto.
 - *Python, Hylang.* Used Python a lot at University for assignments and in my freetime.
 - *C#, JavaScript.* Worked with these languages during my internship at Noitso, and again later at Criipto.
-- *Elm, Idris, Purescript.* I like to read about and study these languages. I especially like Purescript and Idris. I have yet to create anything serious with these languages.
-- *C, Java, Scala, Assembly, Prolog, VHDL.* Have light experience with these languages as I learned about and used them at University.
+- *Elm, Idris, Purescript, Rust.* Been studying and playing with these languages in my spare time over the past few years.
+- *C, Java, Scala, Assembly, Prolog, VHDL.* Have light experience with these languages as I learned about or used them at University.
 
 **Other Technologies**
-- *MSSQL, Cassandra, Postgres.* Used these technologies as part of various software implementations at Noitso and UFST.
+- *MSSQL, Cassandra, Postgres.* Used these database technologies as part of various software implementations at Noitso, UFST and Criipto.
 - *Git, Github.* I've been using these tools everyday at UFST and Criipto.
 - *AWS.* I have created implementations that use ECS, Fargate, Lambda, Cloudformation, Cloudwatch, SNS, SQS og S3, as part of the work at UFST.
-- *Docker, Jenkins, terraform.* I have occasionally worked with these technologies at UFST, but mostly just have light experience with these technologies.
-- *Linux, Debian, NixOs.* I began using Linux on my personal computers at University, and for the past 7-8 years I have preffered using Linux on my own laptops and work laptops. I am addicted to the terminal, Vim/Neovim and keyboard-only workflows. On my Personal laptops I've been using NixOs for a few years, and quite enjoyed it. I have mostly just used the basic functionality that Nix/NixOs provides, but would like to learn more.
+- *Azure.* I have implemented and maintained solutions, using amongst others Bicep, Azure Functions, Blob storage, Table storage, Queue storage, and Webjobs.
+- *Docker, Jenkins, Terraform.* I have occasionally worked with these technologies at UFST.
+- *Linux, Debian, NixOs.* Been using Linux for many years, both professionally and in my spare time. I prefer to use the terminal as much as possible and I am a fan of the "Unix philosophy".
 
 ## Hobbies
-- [I play music](https://soundcloud.com/michel-nielsen-478124668/tracks): A few years ago I started to get into DAWless, syntheseizers, samplers, Eurorack, and learning bit of piano and music theory. I don't have any big ambitions with it except learning, jamming and enjoying myself.
-- I recently got into DIY syntheseizer electronics and have so far successfully assembled and soldered a few educational syntheseizer module kits. I dream about designing and making my own music hardware some day.
-- Nature: I enjoy long walks or running in the nearby forests. Before Corona I learned a bit of 'sea kayaking' and got a 'sea kayaking' certificate (IPP2) which I am looking forward to use more in the future.
-- Learning more about specific programming languages, technologies and hobby coding: These days, I especially enjoy learning about Purescript, and besides that, I've done a little bit of hobby coding in ClojureScript and Elm. I would also very much like to learn about and dig deeper into Nix/NixOs, creating my own Neovim plugins, learning more Elixir, Idris, Haskell and Rust.
+- Playing music. Syntheseizers, Samplers and Eurorack (modular syntheseizers).
+- DIY Electronics. I've assembled and soldered quite a few Eurorack module DIY kits during the past year. I dream about designing and building my own modules some day.
+- Nature. I enjoy long walks or running in the nearby forests, or simply relaxing with a music instrument and headphones outside in nature. I also hope to make more use of my sea kayaking certificate in the near future.
+- Learning programming languages and technologies. These days, I especially enjoy learning about Purescript and Rust.
