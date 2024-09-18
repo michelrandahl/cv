@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Custom styles to fix list spacing
+ul {
+    margin-top: 0 !important;
+    ul {
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+}
