@@ -5,22 +5,24 @@ _Software developer, passionate about Functional Programming_
 michelrandahl@proton.me / Addr.: Holte, DK / [LinkedIn](https://linkedin.com/in/michel-randahl) / [GitHub](https://github.com/michelrandahl)
 
 ## Profile
-I am a Software Developer with a strong passion for Functional Programming (FP), leveraging its principles to produce reliable, transparent, and concise code.  
-I enjoy solving complex problems both independently and collaboratively, valuing knowledge sharing and continuous learning of technologies.  
-I strive to create solutions that are simple and with as few moving parts as possible, maintainable not only by me, and robust.  
-With over a decade of experience using Linux for both professional, personal and academic projects, I enjoy terminal-based workflows, command-line tools and scripting away repetitive tasks.  
+I am a Software Developer deeply interested in Functional Programming (FP) and its ability to produce reliable, transparent, and concise code. 
+I enjoy solving complex problems both independently and in collaboration, valuing knowledge sharing and learning new things. 
+I aim to build simple, robust solutions that are easy for anyone to maintain, not just me. 
+I've mainly used Linux as my primary driver over the past decade, and I'm at home in the terminal and enjoy finding ways to make work easier and eliminate repetitive tasks. 
 
 ## Work Experience
 **Independent Study and Project Development** _(Aug 2023 - Present)_<br>
-Focusing on embedded systems and hardware design with the goal of developing a commercial [Eurorack](https://en.wikipedia.org/wiki/Eurorack) module:
+Exploring a potential self-directed career shift, focusing on embedded systems and hardware design to align with personal interests and long-term goals.
+
+Developing skills in embedded systems and hardware design and prototyping, with the goal of developing a commercial [Eurorack](https://en.wikipedia.org/wiki/Eurorack) module:
 - Learning Rust, with a focus on Embedded Rust applications
 - Open source code contributions for embedded Rust, particularly the STM32 TSC (Touch Sensing Controller) driver in the Embassy library
 - Studying embedded systems concepts (SPI, I2C, DAC, ADC, etc.)
+- Eurorack module UX prototyping in the form of a web-app made with PureScript [Halogen](https://purescript-halogen.github.io/purescript-halogen/)
 - Developing skills in PCB design using KiCAD
 - Gaining experience in component selection and sourcing
 - Exploring PCB manufacturing processes with providers like [Aisler](https://aisler.net/) and [PCBWay](https://www.pcbway.com/)
 - Working towards prototyping a Eurorack module for potential commercialization
-- Eurorack module UX prototyping in the form of a web-app made with PureScript [Halogen](https://purescript-halogen.github.io/purescript-halogen/)
 - **_Technologies summary:_** Rust (no_std, [RTIC](https://github.com/rtic-rs/rtic), [Embassy](https://embassy.dev/)), [PureScript](https://www.purescript.org/), [KiCAD](https://www.kicad.org/), PCB Design, [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html), Embedded/Electronics datasheet comprehension
 
 **Software developer and DevOps** @ [Criipto](https://criipto.com) _(Dec 2021 - Aug 2023)_<br>
@@ -44,7 +46,7 @@ At Skatteministeriet/UFST, I contributed to modernizing Danish property valuatio
 **Intern (part time Software developer)** @ Noitso _(Feb 2013 - Aug 2014)_<br>
 Noitso was a small, versatile software development company specializing in financial technology solutions and custom software development:
 - Took part in the development of a CRM solution and provided support to the users of the CRM solution
-- Minor prototyping and maintainance tasks
+- Minor prototyping and maintenance tasks
 - **_Technologies summary:_** C#, Java, Javascript, HTML5, MSSQL, ASP MVC
 
 ## Education
