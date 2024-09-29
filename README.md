@@ -66,19 +66,27 @@ Noitso was a small, versatile software development company specializing in finan
 - Intermediate: *Rust (no_std/Embedded), Purescript, JavaScript, NodeJS, C#, Python, Java
 - Familiar: *Lua, Bash, uLisp, Elm, Idris, Elixir, Scala, Prolog, VHDL, C
 
-**Databases**
-- *MSSQL, PostgreSQL, Cassandra.* : Data modeling and implementation (Noitso, UFST, Criipto)
+**Databases**<br>
+Extensive experience with SQL databases, and some exposure to NoSQL:
+- *MSSQL, PostgreSQL, Sqlite:* Proficient in querying, table design, and database integration with application code
+- *Cassandra:* Familiarity with NoSQL concepts and distributed databases
 
-**Cloud & DevOps**
-- *GitHub Actions:* Automated testing and deployment (Criipto)
-- *AWS:* ECS, Fargate, Lambda, CloudFormation, CloudWatch, SNS, SQS, S3 (UFST)
-- *Azure:* Bicep, Functions, Blob/Table/Queue storage, WebJobs (Criipto)
-- *Docker, Jenkins, Makefiles, Terraform* (UFST)
+**Cloud & DevOps**<br>
+While my focus mainly has been on application development and writing code, I have also obtained knowledge and experience with various DevOps topics:
+- *GitHub Actions:* Automated testing and deployment
+- *AWS:* ECS, Fargate, Lambda, CloudFormation, CloudWatch, SNS, SQS, S3
+- *Azure:* Bicep, Functions, Blob/Table/Queue storage, WebJobs
+- *Docker, Jenkins, Makefiles, Terraform*
+
+**Security**<br>
+Especially my time at Criipto expanded my security awareness:
+- Maintain a rigorous weekly system update routine for all devices to ensure optimal security and performance
+- Awareness of OWASP Top Ten security risks and their relevance in software development
 
 **Development environment**
-- Strong focus on cybersecurity: Maintain a rigorous weekly system update routine for all devices to ensure optimal security and performance
 - Strong preference for and extensive experience working with Linux, terminal-based workflows, command-line tools, automating and scripting away repetitive tasks
 - Avid user of keyboard focused workflows, using Neovim as main editor, and using the terminal for most things
+- Proficient with Git, which I use almost on a daily basis and have used both for collaborative projects as well as solo and hobby projects
 
 ## Speaking and Writing
 Proficient in English and Danish
