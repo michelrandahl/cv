@@ -5,40 +5,41 @@ _Software developer, passionate about Functional Programming_
 michelrandahl@proton.me / Addr.: Holte, Denmark / [LinkedIn](https://linkedin.com/in/michel-randahl) / [GitHub](https://github.com/michelrandahl)
 
 ## Profile
-Software Developer specialized in functional programming for everything from ETL and applications running in the cloud to fullstack software development. I focus on creating simple, maintainable solutions using languages such as PureScript, F# and Clojure.<br>
-Recently, I've begun exploring embedded systems development with Rust.
+Software Developer specialized in functional programming for everything from ETL and applications running in the cloud to fullstack software development. I enjoy creating simple, maintainable solutions using languages such as [PureScript](https://www.purescript.org/), [F#](https://dotnet.microsoft.com/en-us/languages/fsharp) and [Clojure](https://clojure.org/).<br>
+Recently, I've begun exploring embedded systems development with [Rust](https://www.rust-lang.org/).
 
 ## Work Experience
 **Independent study and working on my own projects** _(Aug 2023 - Present)_<br>
-Learning Rust and expanding my knowledge into embedded systems and electronics, with the goal of developing a commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module and exploring eurorack module UX prototyping using PureScript:
-- Learning [Rust](https://www.rust-lang.org/), with a focus on [Embedded Rust](https://www.rust-lang.org/what/embedded) applications
+Expanding my knowledge into embedded systems and electronics, with the goal of developing a commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module. Additionally some exploration of eurorack module UX prototyping using PureScript. During this timeframe I have been learning and working with a broad array of topics:
+- Learning Rust, with a focus on [Embedded Rust](https://www.rust-lang.org/what/embedded) applications
 - Open source code contributions for embedded Rust, in particular the [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) [TSC driver](https://wiki.st.com/stm32mcu/wiki/Introduction_to_touch_sensing_with_STM32) (Touch Sensing Controller) in the [Embassy](https://github.com/embassy-rs/embassy) library
-- Studying embedded systems concepts (SPI, I2C, DAC, ADC, etc.)
-- Eurorack module UX prototyping in the form of a web-app made with PureScript [Halogen](https://purescript-halogen.github.io/purescript-halogen/)
+- Studying embedded systems topics (SPI, I2C, DAC, ADC, ARM NVIC and Interrupts, logging in embedded, debugging embedded code, etc.)
+- Eurorack module UX prototyping in the form of a web-app made with [PureScript Halogen](https://purescript-halogen.github.io/purescript-halogen/)
 - Developing skills in PCB design using [KiCAD](https://www.kicad.org/)
 - Gaining experience in component selection and sourcing from [mouser](https://www.mouser.dk/)
-- Exploring PCB manufacturing processes with providers like [Aisler](https://aisler.net/) and [PCBWay](https://www.pcbway.com/)
-- Learning electronics by assembling, soldering and flashing/programming DIY eurorack kits and PCBs
-- **_Technologies summary:_** Rust (no_std, [RTIC](https://github.com/rtic-rs/rtic), [Embassy](https://embassy.dev/)), [PureScript](https://www.purescript.org/), [KiCAD](https://www.kicad.org/), PCB Design, [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html), Embedded/Electronics datasheet comprehension
+- Exploring PCB manufacturing processes with [Aisler](https://aisler.net/) and [PCBWay](https://www.pcbway.com/)
+- Expanding my knowledge with and building confidence in electronics, by assembling, soldering and flashing/programming DIY eurorack kits and premade PCBs with self-sourced components
+- **_Skills/Technologies summary:_** Rust, Embedded Rust, Rust framework [RTIC](https://github.com/rtic-rs/rtic), Rust Embassy library, PureScript, PureScript Halogen framework, KiCAD, PCB Design, STM32, general Embedded/Electronics datasheet reading and comprehension
 
 **Software developer and DevOps** @ [Criipto](https://criipto.com) _(Dec 2021 - Aug 2023)_<br>
 At Criipto, an E-ID solutions broker, I:
-- Worked on Stripe integration and billing systems
+- Worked on [Stripe](https://stripe.com/en-dk) integration and billing systems
 - Developed audit logging systems for e-ID usage
 - Worked on demo applications and prototypes
-- Assisted with data warehouse and accounting tasks
-- Various DevOps related tasks like writing Bicep definitions (IaC) and setting up automated testing and deployment with GitHub Actions
-- **_Technologies summary:_** [F#](https://dotnet.microsoft.com/en-us/languages/fsharp), C#, NodeJS, React, Azure, [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep), [Stripe](https://stripe.com/en-dk), [GitHub Actions](https://docs.github.com/en/actions)
+- Writing [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) jobs
+- Assisted with data warehouse and support for accounting tasks
+- Various DevOps related tasks like writing [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep) definitions (Infrastructure as Code) and setting up automated testing and deployment with [GitHub Actions](https://docs.github.com/en/actions)
+- **_Technologies summary:_** F#, C#, NodeJS, React, Azure, Bicep, Stripe, GitHub Actions
 
 **Software developer** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(Jan 2017 - Nov 2021)_<br>
 At Skatteministeriet/UFST, I contributed to the modernizing of Danish property valuation and taxation. My main contributions included:
 - Developing backend code in Clojure for caseworker applications
-- Implementing various ETL jobs (Extract, Transform, Load)
-- Worked with event sourcing and API implementations
+- Implementing various [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) jobs (Extract, Transform, Load)
+- Worked with [Event Sourcing](https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) and API implementations
 - Creating user-activated data processing applications for non-technical staff
 - Assisting with DevOps and OpsSec
 - Minor contributions to the caseworker frontend in ClojureScript
-- **_Technologies:_** [Clojure](https://clojure.org/), ClojureScript, AWS, Terraform, PostgreSQL, Cassandra, Event Sourcing, Docker, Bash, Jenkins
+- **_Technologies summary:_** Clojure, ClojureScript, AWS, Terraform, PostgreSQL, [Cassandra](https://cassandra.apache.org/_/index.html), Event Sourcing, Docker, Bash, Jenkins
 
 **Intern and part time Software developer** @ Noitso _(Feb 2013 - Aug 2014)_<br>
 Noitso was a small, versatile software development company specializing in financial technology solutions and custom software development:
@@ -62,10 +63,10 @@ Learning fundamentals of computer science and software development, practical as
 ## Technical Competences
 **Programming languages**<br>
 Over the past 15 years, spanning both university studies and professional work, I've worked with and studied a diverse range of programming languages. However I've particularly deepened my expertise in functional programming through dedicated personal projects and self study in my spare time.
-- **_Proficient:_** [PureScript](https://www.purescript.org/), Python, [F#](https://fsharp.org/), Clojure
-- **_Active Focus:_** [Embedded Rust](https://www.rust-lang.org/what/embedded)
+- **_Proficient:_** PureScript, Python, F#, Clojure
+- **_Active Focus:_** Rust
 - **_Intermediate:_** JavaScript, NodeJS, C#, Java
-- **_Limited exposure through coursework, self study, or occasional use:_** Lua, Bash, uLisp, Haskell, TypeScript, Elm, Idris, Elixir, Scala, Prolog, VHDL, C
+- **_Limited exposure through coursework, self study, or occasional use:_** [Lua](https://www.lua.org/), Bash, [uLisp](http://www.ulisp.com/), [Haskell](https://www.haskell.org/), TypeScript, [Elm](https://elm-lang.org/), [Idris](https://www.idris-lang.org/), [Elixir](https://elixir-lang.org/), [Scala](https://www.scala-lang.org/), [Prolog](https://en.wikipedia.org/wiki/Prolog), [VHDL](https://en.wikipedia.org/wiki/VHDL), C
 
 **Databases**<br>
 Extensive experience with SQL databases, and some exposure to NoSQL:
@@ -77,15 +78,15 @@ While my focus mainly has been on application development and writing code, I ha
 - *GitHub Actions:* Automated testing and deployment
 - *AWS:* ECS, Fargate, Lambda, CloudFormation, CloudWatch, SNS, SQS, S3
 - *Azure:* Bicep, Functions, Blob/Table/Queue storage, WebJobs
-- *Misc.:* Docker, Jenkins, Makefiles, Terraform, Nix flakes and NixOs
+- *Misc.:* Docker, Jenkins, Makefiles, Terraform
 
 **Security**<br>
 Especially my time at Criipto expanded my security awareness:
-- Maintain a rigorous weekly system update routine for all devices to ensure optimal security and performance
-- Awareness of OWASP Top Ten security risks and their relevance in software development
+- Ensuring that all my computers are encrypted and maintaining a rigorous weekly system update routine for all devices to ensure optimal security
+- Awareness of [OWASP Top Ten](https://owasp.org/www-project-top-ten/) security risks and their relevance in software development
 
 **Development environment**
-- Strong preference for and extensive experience working in a Linux environment, and using terminal-based workflows and tools. I have been using Linux as my daily driver for everything for the past 10 years
+- Strong preference for and extensive experience working in a Linux environment, and using terminal-based workflows and tools. I have been using Linux as my daily driver for everything for the past 10 years. For the past few years I have only been using [NixOs](https://nixos.org/) as my daily driver.
 - Proficient with Git, which I use almost on a daily basis, for collaborative projects as well as solo and hobby projects
 
 ## Speaking and Writing
