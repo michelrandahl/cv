@@ -5,7 +5,7 @@ _Software developer, passionate about Functional Programming_
 michelrandahl@proton.me / Addr.: Holte, Denmark/ [GitHub](https://github.com/michelrandahl) / [LinkedIn](https://linkedin.com/in/michel-randahl)
 
 ## Profile
-Software Developer specialized in functional programming for everything from custom ETL jobs and applications running in the cloud, to fullstack software development. I enjoy creating simple, robust and maintainable solutions using languages such as [PureScript](https://www.purescript.org/), [F#](https://dotnet.microsoft.com/en-us/languages/fsharp) and [Clojure](https://clojure.org/).<br>
+Software Developer specialized in functional programming for everything from custom ETL jobs and applications running in the cloud, to fullstack software development. I especially enjoy creating simple, robust and maintainable solutions using languages such as [PureScript](https://www.purescript.org/), [F#](https://dotnet.microsoft.com/en-us/languages/fsharp) and [Clojure](https://clojure.org/).<br>
 Recently, I've begun exploring embedded systems development with [Rust](https://www.rust-lang.org/).
 
 ## Work Experience
@@ -20,7 +20,7 @@ Expanding my knowledge into embedded systems and electronics, with the goal of d
 - Exploring PCB manufacturing processes with [Aisler](https://aisler.net/) and [PCBWay](https://www.pcbway.com/)
 - Expanding my knowledge with and gaining more confidence in electronics by assembling, soldering and flashing/programming DIY eurorack kits and premade PCBs with self-sourced components
 - **_Technologies summary:_** Rust, Embedded Rust, Rust framework: [RTIC](https://github.com/rtic-rs/rtic), Rust library: Embassy, PureScript, PureScript framework: Halogen, KiCAD, PCB Design, STM32
-- **_Key Competencies Gained:_** Practical experience with reading hardware documentation and datasheets, Increased confidence with low-level programming, Hands-on exposure to electronic design and prototyping, Basic understanding of component selection and PCB design and manufacturing processes, Experience with contributing to open source
+- **_Key competencies gained:_** Practical experience with reading hardware documentation and datasheets, Increased confidence with low-level programming, Hands-on exposure to electronic design and prototyping, Basic understanding of component selection and PCB design and manufacturing processes, Experience with contributing to open source
 
 **- Software developer and DevOps** @ [Criipto](https://criipto.com) _(Dec 2021 - Aug 2023)_<br>
 At Criipto, an E-ID solutions broker, I:
@@ -32,7 +32,7 @@ At Criipto, an E-ID solutions broker, I:
 - Assisted with data warehouse and support for accounting tasks
 - Various DevOps related tasks like writing [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep) definitions (Infrastructure as Code) and setting up automated testing and deployment with [GitHub Actions](https://docs.github.com/en/actions)
 - **_Technologies summary:_** F#, C#, NodeJS, React, Azure, Bicep, Stripe, GitHub Actions
-- **_Key Competencies Gained:_** Increased security awareness for software development and DevOps as well as daily IT usage, Experience with payment systems integration, Further practical exposure to cloud infrastructure automation
+- **_Key competencies gained:_** Increased security awareness for software development and DevOps as well as daily IT usage, Experience with payment systems integration, Further practical exposure to cloud infrastructure automation
 
 **- Software developer** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(Jan 2017 - Nov 2021)_<br>
 At Skatteministeriet/UFST, I contributed to the modernizing of Danish property valuation and taxation. My main contributions included:
@@ -43,14 +43,14 @@ At Skatteministeriet/UFST, I contributed to the modernizing of Danish property v
 - Assisting with DevOps and OpsSec
 - Minor contributions to the caseworker frontend in ClojureScript
 - **_Technologies summary:_** Clojure, ClojureScript, AWS, Event Sourcing, PostgreSQL, [Cassandra](https://cassandra.apache.org/_/index.html), Terraform, Git, Docker, Bash, Jenkins
-- **_Key Competencies Gained:_** Extensive experience with code reviewing, Pair programming, Working in a large-scale government project, Collaborative development in cross-functional teams, Working under a Scrum organization, Developing and maintaining applications for cloud
+- **_Key competencies gained:_** Extensive experience with code reviewing, Pair programming, Working in a large-scale government project, Collaborative development in cross-functional teams, Working under a Scrum organization, Developing and maintaining applications for cloud
 
 **- Intern and part time Software developer** @ Noitso _(Feb 2013 - Aug 2014)_<br>
 Noitso was a small, versatile software development company specializing in financial technology solutions and custom software development:
 - Co-developed a new CRM solution with primary focus on application and database design, and providing ongoing user support
 - Prototyping and maintenance of software
 - **_Technologies summary:_** C#, Java, Javascript, HTML5, MSSQL, ASP MVC
-- **_Key Competencies Gained:_** First-hand experience with customer-facing software development and support
+- **_Key competencies gained:_** First-hand experience with customer-facing software development and support
 
 ## Education
 
@@ -101,4 +101,4 @@ Native Danish and proficient in English
 ## Beyond Code
 - Playing music, especially Synthesizers, Samplers and Eurorack
 - DIY Electronics. I have assembled and soldered 20+ different Eurorack DIY kits and designed and built my own rack system to hold and power the modules. I also generally like fixing things in my home instead of discarding the moment something stops working. Since childhood I have enjoyed disassembling and investigating electronics, although it is only recently that I have started to understand things and gained some intuition about it
-- Nature. I enjoy being out in nature, whether it be working on my laptop, or walking/running/kayaking
+- Nature. I enjoy being out in nature, whether it be working on my laptop outdoors, or taking long walks or going for running in the forest or kayaking on the lakes
