@@ -14,7 +14,7 @@ Expanding my knowledge into embedded systems and electronics, with the goal of d
 - Learning Rust, with a focus on [Embedded Rust](https://www.rust-lang.org/what/embedded)
 - Open source code contributions for embedded Rust [Embassy](https://github.com/embassy-rs/embassy) library, in particular for the [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) [TSC driver](https://wiki.st.com/stm32mcu/wiki/Introduction_to_touch_sensing_with_STM32) (Touch Sensing Controller)
 - Studying embedded systems topics (SPI, I2C, DAC, ADC, ARM NVIC and Interrupts, logging in embedded, debugging embedded code, etc.)
-- Eurorack module UX prototyping in the form of a web-app made with [PureScript Halogen](https://purescript-halogen.github.io/purescript-halogen/)
+- Experimenting with Eurorack module UX prototyping using [PureScript Halogen](https://purescript-halogen.github.io/purescript-halogen/) to model the module and interactions in a web-app
 - Developing skills in PCB design using [KiCAD](https://www.kicad.org/)
 - Gaining experience in component selection and sourcing from [mouser](https://www.mouser.dk/)
 - Exploring PCB manufacturing processes with [Aisler](https://aisler.net/) and [PCBWay](https://www.pcbway.com/)
@@ -31,7 +31,7 @@ At Criipto, an E-ID solutions broker, I:
 - Writing [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) jobs
 - Assisted with data warehouse and support for accounting tasks
 - Various DevOps related tasks like writing [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep) definitions (Infrastructure as Code) and setting up automated testing and deployment with [GitHub Actions](https://docs.github.com/en/actions)
-- **_Technologies summary:_** F#, C#, NodeJS, React, Azure, Bicep, Stripe, GitHub Actions
+- **_Technologies summary:_** F#, C#, NodeJS, React, TypeScript, Azure, Bicep, Stripe, GitHub Actions
 - **_Key competencies gained:_** Increased security awareness for software development and DevOps as well as daily IT usage, Experience with payment systems integration, Further practical exposure to cloud infrastructure automation
 
 **- Software developer** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(Jan 2017 - Nov 2021)_<br>
@@ -42,8 +42,8 @@ At Skatteministeriet/UFST, I contributed to the modernizing of Danish property v
 - Creating user-activated data processing applications for non-technical staff
 - Assisting with DevOps and OpsSec
 - Minor contributions to the caseworker frontend in ClojureScript
-- **_Technologies summary:_** Clojure, ClojureScript, AWS, Event Sourcing, PostgreSQL, [Cassandra](https://cassandra.apache.org/_/index.html), Terraform, Git, Docker, Bash, Jenkins
-- **_Key competencies gained:_** Extensive experience with code reviewing, Pair programming, Working in a large-scale government project, Collaborative development in cross-functional teams, Working under a Scrum organization, Developing and maintaining applications for cloud
+- **_Technologies summary:_** Clojure, ClojureScript, AWS, Event Sourcing, PostgreSQL, [Cassandra](https://cassandra.apache.org/_/index.html), Terraform, Git, GitHub, Docker, Bash, Jenkins
+- **_Key competencies gained:_** Extensive experience with code reviewing, Pair programming, Collaboration using Git and Github, Working in a large-scale government project, Collaborative development in cross-functional teams, Working under a Scrum organization, Developing and maintaining applications for cloud, Exposure to [CVE](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures) reports
 
 **- Intern and part time Software developer** @ Noitso _(Feb 2013 - Aug 2014)_<br>
 Noitso was a small, versatile software development company specializing in financial technology solutions and custom software development:
@@ -55,7 +55,7 @@ Noitso was a small, versatile software development company specializing in finan
 ## Education
 
 **- Msc in Computer Science and Engineering** @ [DTU](https://www.dtu.dk/english/education/msc/programmes/computer_science_and_engineering) _(Feb 2014 - Oct 2016)_<br>
-Studying topics such as Fault Tolerant Systems, Parallel Programming, Artificial Intelligence, Data Mining, Stochastic Simulation and Formal Software Engineering
+Studying topics such as Fault Tolerant Systems, Parallel Programming, Data Mining, Stochastic Simulation and Formal Software Engineering
 - While working on my master thesis, I worked as TA (Teaching Assistant) in the course [Formal Aspects of Software Engineering](https://kurser.dtu.dk/course/02263)
 - I took one semester in Japan at [Tohoku University in Sendai](https://www.eng.tohoku.ac.jp/english/), where I took courses and worked on a small project in the space robotics lab
 - **_Thesis:_** [Model Checking Safety Properties of Distributed Railway Control Systems](http://www2.imm.dtu.dk/pubdb/edoc/imm6955.pdf)
@@ -68,8 +68,8 @@ Learning fundamentals of Computer Science and modern software development, hands
 ## Technical Competences
 **- Programming languages**<br>
 Over the past 15 years, spanning university studies as well as professional work, I've worked with and studied a diverse range of programming languages. However I've particularly deepened my expertise in functional programming through self study and personal projects.
-- **_Proficient:_** PureScript, Python, F#, Clojure
-- **_Active Focus:_** Rust
+- **_Proficient:_** Clojure, Python, F#
+- **_Active Focus:_** Rust, PureScript
 - **_Intermediate:_** JavaScript, NodeJS, C#, Java
 - **_Limited exposure through coursework, self study, or occasional use:_** [Lua](https://www.lua.org/), Bash, [uLisp](http://www.ulisp.com/), [Haskell](https://www.haskell.org/), TypeScript, [Elm](https://elm-lang.org/), [Idris](https://www.idris-lang.org/), [Elixir](https://elixir-lang.org/), [Scala](https://www.scala-lang.org/), [Prolog](https://en.wikipedia.org/wiki/Prolog), [VHDL](https://en.wikipedia.org/wiki/VHDL), C
 
@@ -79,7 +79,7 @@ Extensive experience with SQL databases, and some exposure to NoSQL:
 - *Cassandra:* Familiarity with NoSQL concepts and distributed databases
 
 **- Cloud & DevOps**<br>
-While my focus mainly has been on application development and writing code, I have also obtained knowledge and experience with various DevOps topics:
+While my focus mainly has been on application development and writing code, I have also obtained knowledge and experience with various DevOps and Cloud topics:
 - *GitHub Actions:* Automated testing and deployment
 - *AWS:* ECS, Fargate, Lambda, CloudFormation, CloudWatch, SNS, SQS, S3
 - *Azure:* Bicep, Functions, Blob/Table/Queue storage, WebJobs
@@ -89,16 +89,17 @@ While my focus mainly has been on application development and writing code, I ha
 Especially my time at Criipto expanded my security awareness:
 - Ensuring that all my computers are encrypted and maintaining a rigorous weekly system update routine for all devices to ensure optimal security
 - Awareness of [OWASP Top Ten](https://owasp.org/www-project-top-ten/) security risks and their relevance in software development
+- Experience identifying and mitigating security vulnerabilities by analyzing CVE reports, implementing recommended fixes through dependency updates, and validating changes through testing
 
 **- Development environment**
-- Strong preference for Linux, which I have been using as my daily driver for the past 10 years. Currently running [NixOs](https://nixos.org/), which I enjoy for its declarative nature, easy package/system update rollbacks, reliable package management, and reproducible development environments
+- Strong preference for Linux, which I have been using as my daily driver for the past 10 years. Currently running [NixOs](https://nixos.org/), which I enjoy for its declarative nature, easy package/system rollbacks, reliable package management, and reproducible development environments through [nix flakes](https://nixos.wiki/wiki/Flakes)
 - Extensive experience with terminal-based tools, favoring such tools for their simplicity, reliability, efficiency, and ease of automation through shell scripting
-- Proficient with Git, which I have used almost on a daily basis for the past many years, for collaborative projects as well as solo and hobby projects
+- Proficient with Git and GitHub, which I have used almost on a daily basis for the past many years, for collaborative projects as well as solo and hobby projects
 
 ## Speaking and Writing
 Native Danish and proficient in English
 
 ## Beyond Code
 - Playing music, especially Synthesizers, Samplers and Eurorack
-- DIY Electronics. I have assembled and soldered 20+ different Eurorack DIY kits and designed and built my own rack system to hold and power the modules. I also generally like fixing things in my home instead of discarding the moment something stops working. Since childhood I have enjoyed disassembling and investigating electronics, although it is only recently that I have started to understand things and gained some intuition about it
+- DIY Electronics. I have assembled and soldered and sometimes programmed 20+ different Eurorack DIY kits and PCBs with self sourced components, furthermore have I designed and built my own rack system to hold and power the modules. I also generally like fixing things in my home instead of discarding items the moment something stops working. Since childhood I have enjoyed disassembling and investigating electronics, although it is only recently that I have started to understand things and gain some intuition about it
 - Nature. I enjoy being out in nature, whether it be working on my laptop outdoors, or taking long walks or going for running in the forest or kayaking on the lakes
