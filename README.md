@@ -2,7 +2,7 @@
 
 _Software developer, passionate about Functional Programming_
 
-michelrandahl@proton.me / Addr.: Holte, Denmark/ [GitHub](https://github.com/michelrandahl) / [LinkedIn](https://linkedin.com/in/michel-randahl)
+michelrandahl@proton.me / Addr.: Holte, Denmark / [GitHub](https://github.com/michelrandahl) / [Codeberg](https://codeberg.org/michelrandahl) / [LinkedIn](https://linkedin.com/in/michel-randahl)
 
 ## Profile
 Software Developer specialized in functional programming for everything from custom ETL jobs and applications running in the cloud, to fullstack software development. I especially enjoy creating simple, robust and maintainable solutions using languages such as [PureScript](https://www.purescript.org/), [F#](https://dotnet.microsoft.com/en-us/languages/fsharp) and [Clojure](https://clojure.org/).<br>
