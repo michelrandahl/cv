@@ -56,7 +56,7 @@ Computer science and engineering education including software development fundam
 
 ## Technical Competences
 **- Programming languages**<br>
-Over the past 15 years, spanning university studies and professional work, I've worked with a diverse range of programming languages, with particular expertise in functional programming developed through both professional work and spare time reading and projects.
+Over the past 15 years, spanning university studies and professional work, I've worked with a diverse range of programming languages, with particular expertise in functional programming developed through both professional work and spare time reading and projects. The most prominent are the following
 - **_Proficient:_** Clojure, F#
 - **_Active Focus:_** Rust
 - **_Intermediate:_** PureScript, Python, JavaScript, NodeJS, C#, Java
