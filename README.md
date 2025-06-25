@@ -61,6 +61,9 @@ Over the past 15 years, spanning university studies and professional work, I've 
 - **_Active Focus:_** Rust
 - **_Intermediate:_** PureScript, Python, JavaScript, NodeJS, C#, Java
 
+**- Testing**<br>
+Experience with unit testing and property-based testing across multiple languages
+
 **- Databases**<br>
 Extensive experience with SQL databases and some exposure to NoSQL:
 - **MSSQL, PostgreSQL, SQLite**
