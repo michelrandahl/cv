@@ -1,6 +1,6 @@
 # Michel Bøje Randahl Nielsen
 
-_Experienced Functional Programming developer | Beginner Embedded Rust developer_
+_Experienced Functional Programming developer_ | _Beginner Embedded Rust developer_
 
 michelrandahl@proton.me / Addr.: Holte, Denmark / [GitHub](https://github.com/michelrandahl) / [Codeberg](https://codeberg.org/michelrandahl) / [LinkedIn](https://linkedin.com/in/michel-randahl)
 
@@ -46,16 +46,13 @@ At Noitso, a financial technology and custom software development company, I:
 - **_Key competencies gained:_** Customer-facing software development and support experience
 
 ## Education
-**- MSc in Computer Science and Engineering** @ [DTU](https://www.dtu.dk/english/education/msc/programmes/computer_science_and_engineering) _(Feb 2014 - Oct 2016)_<br>
-Studied advanced topics including Fault Tolerant Systems, Parallel Programming, Data Mining, Stochastic Simulation, and Formal Software Engineering
-- Teaching Assistant for [Formal Aspects of Software Engineering](https://kurser.dtu.dk/course/02263) course while completing master thesis
-- Exchange semester at [Tohoku University, Sendai, Japan](https://www.eng.tohoku.ac.jp/english/) - coursework and research project in space robotics lab
-- **_Thesis:_** [Model Checking Safety Properties of Distributed Railway Control Systems](http://www2.imm.dtu.dk/pubdb/edoc/imm6955.pdf)
-
-**- BEng Information Technology** @ DTU _(Sep 2009 - Feb 2014)_<br>
-Studied fundamentals of Computer Science, software development, Machine Learning, Artificial Intelligence, digital electronics, and embedded systems programming
-- **_Internship:_** Noitso (detailed above)
-- **_Thesis:_** Implemented an artificial neural network system for predictive home lighting control based on PIR sensor movement patterns
+**- MSc Computer Science and Engineering, BEng Information Technology** @ DTU _(Sep 2009 - Oct 2016)_<br>
+Computer science and engineering education including software development fundamentals, algorithms, hardware/software programming, and advanced topics such as Fault Tolerant Systems, Data Mining, and Formal Software Engineering.
+- Teaching Assistant for [Formal Aspects of Software Engineering](https://kurser.dtu.dk/course/02263) course
+- Exchange semester at [Tohoku University, Sendai, Japan](https://www.eng.tohoku.ac.jp/english/) - coursework and project in space robotics lab
+- **_MSc Thesis:_** [Model Checking Safety Properties of Distributed Railway Control Systems](http://www2.imm.dtu.dk/pubdb/edoc/imm6955.pdf)
+- **_BEng Thesis:_** Artificial Neural Network based system for predictive home lighting control
+- **_Internship:_** Noitso (detailed above, under work experience)
 
 ## Technical Competences
 **- Programming languages**<br>
