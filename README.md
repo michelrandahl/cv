@@ -12,15 +12,15 @@ Currently learning embedded programming with [Rust](https://www.rust-lang.org/),
 **- Independent study and working on my own projects** _(Aug 2023 - Present)_<br>
 Expanding my knowledge into embedded systems and electronics, with the goal of developing a commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module. During this intensive learning period I have worked with and gained knowledge across multiple domains:
 - Learning [Rust for bare metal embedded applications](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
-- Open source contributions to [Embassy](https://github.com/embassy-rs/embassy) library - significant contribution to STM32 TSC touch sensing driver
+- Open source contributions to [Embassy](https://github.com/embassy-rs/embassy) library - significant contribution to [STM32 TSC touch sensing driver](https://github.com/embassy-rs/embassy/tree/b5ab3276dce7322e33946e974770fa91b98124a4/embassy-stm32/src/tsc)
 - PCB design using [KiCAD](https://www.kicad.org/), component sourcing from [Mouser](https://www.mouser.dk/), and manufacturing experience with Aisler/PCBWay
 - Hands-on electronics experience through DIY eurorack kit assembly, soldering, and custom PCB projects
-- Explored UX prototyping using PureScript for module interface design
+- Explored UX prototyping using [PureScript Halogen](https://purescript-halogen.github.io/purescript-halogen/) for module interface design
 - **_Technologies:_** Rust, Embedded Rust, RTIC, Embassy, PureScript, KiCAD, STM32
 - **_Key competencies gained:_** Hardware documentation/datasheet interpretation, open source contribution, electronic design and prototyping, PCB manufacturing processes
 
 **- Software developer and DevOps** @ [Criipto](https://criipto.com) _(Dec 2021 - Aug 2023)_<br>
-At Criipto, an E-ID solutions broker, I developed and maintained critical business systems:
+At Criipto, an [e-ID](https://en.wikipedia.org/wiki/Electronic_identification) solutions broker, I:
 - Built [Stripe](https://stripe.com/en-dk) integration and billing systems
 - Developed audit logging systems for e-ID usage tracking
 - Created demo applications, prototypes, and worked on the customer account management platform
@@ -32,8 +32,8 @@ At Criipto, an E-ID solutions broker, I developed and maintained critical busine
 **- Software developer** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(Jan 2017 - Nov 2021)_<br>
 At Skatteministeriet/UFST, I contributed to modernizing Danish property valuation and taxation systems:
 - Developed backend systems in Clojure for caseworker applications using Event Sourcing architecture
-- Implemented custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and data processing applications for non-technical staff
-- Worked on API implementations and contributed to ClojureScript frontend development
+- Implemented custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and data processing applications for technical and non-technical staff
+- Worked on API implementations and contributed to the ClojureScript frontend
 - Participated in DevOps practices including infrastructure management and security operations
 - **_Technologies:_** Clojure, ClojureScript, AWS, Event Sourcing, PostgreSQL, Cassandra, Terraform, Docker, Jenkins
 - **_Key competencies gained:_** Large-scale government project experience, cross-functional team collaboration, Scrum methodology, code review and pair programming practices, cloud application development, security vulnerability management
@@ -62,7 +62,7 @@ Over the past 15 years, spanning university studies and professional work, I've 
 - **_Intermediate:_** PureScript, Python, JavaScript, NodeJS, C#, Java
 
 **- Testing**<br>
-Experience with unit testing and property-based testing across multiple languages
+Experience with unit testing and [property-based testing](https://en.wikipedia.org/wiki/Software_testing#Property_testing) across multiple languages
 
 **- Databases**<br>
 Extensive experience with SQL databases and some exposure to NoSQL:
@@ -73,7 +73,7 @@ Extensive experience with SQL databases and some exposure to NoSQL:
 Experience with cloud platforms and DevOps practices:
 - **GitHub Actions:** Automated testing and deployment
 - **AWS:** ECS, Fargate, Lambda, CloudFormation, CloudWatch, SNS, SQS, S3
-- **Azure:** Bicep, Functions, Blob/Table/Queue storage, WebJobs
+- **Azure:** Bicep, Functions, Blob/Table/Queue -storage, WebJobs
 - **Tools:** Docker, Jenkins, Makefiles, Terraform
 
 **- Security**<br>
@@ -94,4 +94,4 @@ Native Danish and proficient in English
 - **Music:** Playing synthesizers, samplers, and Eurorack modular systems
 - **DIY Electronics:** Assembled and soldered 20+ Eurorack kits and PCBs and designed a custom wooden rack for my modules.
 - **Nature:** Outdoor activities including forest walks, running, and kayaking on Danish lakes
-- **FPV Drones:** Flying tinywhoop quadcopters
+- **FPV Drones:** Flying [tinywhoop quadcopters](https://en.everybodywiki.com/Tiny_Whoop)
