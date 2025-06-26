@@ -5,14 +5,14 @@ _Experienced Functional Programming developer_ | _Beginner Embedded Rust develop
 michelrandahl@proton.me / Addr.: Holte, Denmark / [GitHub](https://github.com/michelrandahl) / [Codeberg](https://codeberg.org/michelrandahl) / [LinkedIn](https://linkedin.com/in/michel-randahl)
 
 ## Profile
-Software Developer with roughly 7 years of professional functional programming experience, specialized in building everything from custom ETL pipelines and cloud applications to fullstack solutions. I enjoy creating simple, robust and maintainable systems using languages such as [Clojure](https://clojure.org/), [PureScript](https://www.purescript.org/), and [F#](https://dotnet.microsoft.com/en-us/languages/fsharp).<br>
-Currently learning embedded programming with [Rust](https://www.rust-lang.org/), leveraging my existing programming experience in this new domain.
+Software Developer with nearly 10 years of professional experience, including 7 years specializing in functional programming (FP). I've built everything from custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and cloud applications to fullstack solutions, using FP techniques and languages for creating simple, robust and maintainable systems. My current favourite tools from my toolbox are [Clojure](https://clojure.org/), [PureScript](https://www.purescript.org/) and [Rust](https://www.rust-lang.org/).<br>
+Currently focused on embedded systems with Rust, contributing to open source embedded libraries and working on my own hardware projects.
 
 ## Work Experience
 **- Independent study and working on my own projects** _(Aug 2023 - Present)_<br>
 Expanding my knowledge into embedded systems and electronics, with the goal of developing a commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module. During this intensive learning period I have worked with and gained knowledge across multiple domains:
 - Learning [Rust for bare metal embedded applications](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
-- Open source contributions to [Embassy](https://github.com/embassy-rs/embassy) library - significant contribution to [STM32 TSC touch sensing driver](https://github.com/embassy-rs/embassy/tree/b5ab3276dce7322e33946e974770fa91b98124a4/embassy-stm32/src/tsc)
+- Open source contributions to [Embassy](https://github.com/embassy-rs/embassy) library - with a significant contribution to [STM32 TSC touch sensing driver](https://github.com/embassy-rs/embassy/tree/b5ab3276dce7322e33946e974770fa91b98124a4/embassy-stm32/src/tsc)
 - PCB design using [KiCAD](https://www.kicad.org/), component sourcing from [Mouser](https://www.mouser.dk/), and manufacturing experience with Aisler/PCBWay
 - Hands-on electronics experience through DIY eurorack kit assembly, soldering, and custom PCB projects
 - Explored UX prototyping using [PureScript Halogen](https://purescript-halogen.github.io/purescript-halogen/) for module interface design
@@ -24,9 +24,9 @@ At Criipto, an [e-ID](https://en.wikipedia.org/wiki/Electronic_identification) s
 - Built [Stripe](https://stripe.com/en-dk) integration and billing systems
 - Developed audit logging systems for e-ID usage tracking
 - Created demo applications, prototypes, and worked on the customer account management platform
-- Implemented [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) jobs and supported data warehouse operations
+- Implemented ETL jobs and supported data warehouse operations
 - Automated infrastructure using [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep) (Infrastructure as Code) and [GitHub Actions](https://docs.github.com/en/actions) for CI/CD
-- **_Technologies:_** F#, C#, NodeJS, React, TypeScript, Azure, Bicep, Stripe, GitHub Actions
+- **_Technologies:_** [F#](https://dotnet.microsoft.com/en-us/languages/fsharp), C#, NodeJS, React, TypeScript, Azure, Bicep, Stripe, GitHub Actions
 - **_Key competencies gained:_** Security-focused development practices, payment systems integration, cloud infrastructure automation
 
 **- Software developer** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(Jan 2017 - Nov 2021)_<br>
@@ -70,7 +70,7 @@ Extensive experience with SQL databases and some exposure to NoSQL:
 - **Cassandra:** Familiarity with NoSQL concepts and distributed databases
 
 **- Cloud & DevOps**<br>
-Experience with cloud platforms and DevOps practices:
+Some experience with cloud platforms and DevOps practices:
 - **GitHub Actions:** Automated testing and deployment
 - **AWS:** ECS, Fargate, Lambda, CloudFormation, CloudWatch, SNS, SQS, S3
 - **Azure:** Bicep, Functions, Blob/Table/Queue -storage, WebJobs
