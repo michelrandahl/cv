@@ -5,7 +5,7 @@ _Experienced Functional Programming developer_ | _Beginner Embedded Rust develop
 michelrandahl@proton.me / Addr.: Holte, Denmark / [GitHub](https://github.com/michelrandahl) / [Codeberg](https://codeberg.org/michelrandahl) / [LinkedIn](https://linkedin.com/in/michel-randahl)
 
 ## Profile
-Software Developer with nearly 10 years of professional experience, including 7 years specializing in functional programming (FP). I've built everything from custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and cloud applications to fullstack solutions, using FP techniques and languages for creating simple, robust and maintainable systems. My current favourite tools from my toolbox are [Clojure](https://clojure.org/), [PureScript](https://www.purescript.org/) and [Rust](https://www.rust-lang.org/).<br>
+Software Developer with nearly 10 years of professional experience, including 7 years specializing in functional programming (FP). I've built everything from custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and cloud applications to fullstack solutions, using FP techniques and languages for creating robust and maintainable systems. My current favourite tools from my toolbox are [Clojure](https://clojure.org/), [PureScript](https://www.purescript.org/) and [Rust](https://www.rust-lang.org/).<br>
 Currently focused on embedded systems with Rust, contributing to open source embedded libraries and working on my own hardware projects.
 
 ## Work Experience
@@ -17,7 +17,7 @@ Expanding my knowledge into embedded systems and electronics, with the goal of d
 - Hands-on electronics experience through DIY eurorack kit assembly, soldering, and custom PCB projects
 - Explored UX prototyping using [PureScript Halogen](https://purescript-halogen.github.io/purescript-halogen/) for module interface design
 - **_Technologies:_** Rust, Embedded Rust, RTIC, Embassy, PureScript, KiCAD, STM32
-- **_Key competencies gained:_** Hardware documentation/datasheet interpretation, open source contribution, electronic design and prototyping, PCB manufacturing processes
+- **_Key competencies gained:_** Hardware documentation/datasheet interpretation, open source contribution, initial experience with electronic design and prototyping, initial experience with PCB manufacturing processes
 
 **- Software developer and DevOps** @ [Criipto](https://criipto.com) _(Dec 2021 - Aug 2023)_<br>
 At Criipto, an [e-ID](https://en.wikipedia.org/wiki/Electronic_identification) solutions broker, I:
@@ -31,9 +31,8 @@ At Criipto, an [e-ID](https://en.wikipedia.org/wiki/Electronic_identification) s
 
 **- Software developer** @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(Jan 2017 - Nov 2021)_<br>
 At Skatteministeriet/UFST, I contributed to modernizing Danish property valuation and taxation systems:
-- Developed backend systems in Clojure for caseworker applications using Event Sourcing architecture
+- Worked on the Event Sourcing backend, API implementations and contributed to the ClojureScript frontend
 - Implemented custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and data processing applications for technical and non-technical staff
-- Worked on API implementations and contributed to the ClojureScript frontend
 - Participated in DevOps practices including infrastructure management and security operations
 - **_Technologies:_** Clojure, ClojureScript, AWS, Event Sourcing, PostgreSQL, Cassandra, Terraform, Docker, Jenkins
 - **_Key competencies gained:_** Large-scale government project experience, cross-functional team collaboration, Scrum methodology, code review and pair programming practices, cloud application development, security vulnerability management
