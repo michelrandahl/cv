@@ -5,18 +5,18 @@ _Experienced Functional Programming developer_ | _Beginner Embedded Rust develop
 michelrandahl@proton.me / Addr.: Holte, Denmark / [GitHub](https://github.com/michelrandahl) / [Codeberg](https://codeberg.org/michelrandahl) / [LinkedIn](https://linkedin.com/in/michel-randahl)
 
 ## Profile
-Software Developer with nearly 10 years of professional experience, including 7 years specializing in functional programming (FP). I've built everything from custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and cloud applications to fullstack solutions, using FP techniques and languages for creating robust and maintainable systems. My current favourite tools from my toolbox are [Clojure](https://clojure.org/), [PureScript](https://www.purescript.org/) and [Rust](https://www.rust-lang.org/).<br>
+Software Developer with nearly 10 years of professional experience, including 7 years specializing in functional programming (FP). I've built everything from custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and cloud applications to fullstack solutions, using FP techniques and languages to build systems that are easier to reason about, test thoroughly, and maintain over time. My current favourite tools from my toolbox are [Clojure](https://clojure.org/), [PureScript](https://www.purescript.org/) and [Rust](https://www.rust-lang.org/).<br>
 Currently focused on embedded systems with Rust, contributing to open source embedded libraries and working on my own hardware projects.
 
 ## Work Experience
 **- Independent study and working on my own projects** _(Aug 2023 - Present)_<br>
 Expanding my knowledge into embedded systems and electronics, with the goal of developing a commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module. During this intensive learning period I have worked with and gained knowledge across multiple domains:
 - Learning [Rust for bare metal embedded applications](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
-- Open source contributions to [Embassy](https://github.com/embassy-rs/embassy) library - with a significant contribution to [STM32 TSC touch sensing driver](https://github.com/embassy-rs/embassy/tree/b5ab3276dce7322e33946e974770fa91b98124a4/embassy-stm32/src/tsc)
+- Open source contributions to [Embassy](https://embassy.dev/) library - with a significant contribution to [STM32 TSC touch sensing driver](https://github.com/embassy-rs/embassy/tree/b5ab3276dce7322e33946e974770fa91b98124a4/embassy-stm32/src/tsc)
 - PCB design using [KiCAD](https://www.kicad.org/), component sourcing from [Mouser](https://www.mouser.dk/), and manufacturing experience with Aisler/PCBWay
 - Hands-on electronics experience through DIY eurorack kit assembly, soldering, and custom PCB projects
 - Explored UX prototyping using [PureScript Halogen](https://purescript-halogen.github.io/purescript-halogen/) for module interface design
-- **_Technologies:_** Rust, Embedded Rust, RTIC, Embassy, PureScript, KiCAD, STM32
+- **_Technologies:_** Rust, Embedded Rust ([RTIC](https://rtic.rs/2/book/en/), Embassy), PureScript, KiCAD, STM32
 - **_Key competencies gained:_** Hardware documentation/datasheet interpretation, open source contribution, initial experience with electronic design and prototyping, initial experience with PCB manufacturing processes
 
 **- Software developer and DevOps** @ [Criipto](https://criipto.com) _(Dec 2021 - Aug 2023)_<br>
@@ -33,8 +33,9 @@ At Criipto, an [e-ID](https://en.wikipedia.org/wiki/Electronic_identification) s
 At Skatteministeriet/UFST, I contributed to modernizing Danish property valuation and taxation systems:
 - Worked on the Event Sourcing backend, API implementations and contributed to the ClojureScript frontend
 - Implemented custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and data processing applications for technical and non-technical staff
+- Developed internal tooling to address ecosystem gaps, including a clojure.spec to JSON Schema converter supporting advanced spec features
 - Participated in DevOps practices including infrastructure management and security operations
-- **_Technologies:_** Clojure, ClojureScript, AWS, Event Sourcing, PostgreSQL, Cassandra, Terraform, Docker, Jenkins
+- **_Technologies:_** Clojure (spec, async, various ecosystem libraries), ClojureScript, AWS, Event Sourcing, PostgreSQL, Cassandra, Terraform, Docker, Jenkins
 - **_Key competencies gained:_** Large-scale government project experience, cross-functional team collaboration, Scrum methodology, code review and pair programming practices, cloud application development, security vulnerability management
 
 **- Intern and part time Software developer** @ Noitso _(Feb 2013 - Aug 2014)_<br>
@@ -93,4 +94,4 @@ Native Danish and proficient in English
 - **Music:** Playing synthesizers, samplers, and Eurorack modular systems
 - **DIY Electronics:** Assembled and soldered 20+ Eurorack kits and PCBs and designed a custom wooden rack for my modules.
 - **Nature:** Outdoor activities including forest walks, running, and kayaking on Danish lakes
-- **FPV Drones:** Flying [tinywhoop quadcopters](https://en.everybodywiki.com/Tiny_Whoop)
+- **FPV Drones:** Flying [tinywhoop fpv quadcopters](https://en.everybodywiki.com/Tiny_Whoop)
