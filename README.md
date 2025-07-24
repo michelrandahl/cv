@@ -6,7 +6,7 @@ michelrandahl@proton.me / Addr.: Holte, Denmark / [GitHub](https://github.com/mi
 
 ## Profile
 Software Developer with nearly 10 years of professional experience, including 7 years specializing in functional programming (FP). I've built everything from custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and cloud applications to fullstack solutions, using FP techniques and languages to build systems that are easier to reason about, test thoroughly, and maintain over time. My current favourite tools from my toolbox are [Clojure](https://clojure.org/), [PureScript](https://www.purescript.org/) and [Rust](https://www.rust-lang.org/).<br>
-Currently focused on embedded systems with Rust, contributing to open source embedded libraries and working on my own hardware projects.
+Currently focused on upskilling in embedded systems with Rust, contributing to open source embedded libraries and working on my own hardware projects.
 
 ## Work Experience
 **- Independent study and working on my own projects** _(Aug 2023 - Present)_<br>
