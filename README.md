@@ -1,11 +1,11 @@
 # Michel Bøje Randahl Nielsen
 
-_Experienced Functional Programming developer_ | _Beginner Embedded Rust developer_
+_Backend & Cloud_ | _Functional Programming_ | _Embedded Rust (learning)_
 
 michelrandahl@proton.me / Addr.: Holte, Denmark / [GitHub](https://github.com/michelrandahl) / [Codeberg](https://codeberg.org/michelrandahl) / [LinkedIn](https://linkedin.com/in/michel-randahl)
 
 ## Profile
-Software Developer with nearly 10 years of professional experience, including 7 years specializing in functional programming (FP). I've built everything from custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and cloud applications to fullstack solutions, using FP techniques and languages to build systems that are easier to reason about, test thoroughly, and maintain over time. My current favourite tools from my toolbox are [Clojure](https://clojure.org/), [PureScript](https://www.purescript.org/) and [Rust](https://www.rust-lang.org/).<br>
+Software Developer with nearly 10 years of professional experience, including 7 years specializing in functional programming (FP). I've built everything from custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and cloud applications to fullstack solutions, using FP techniques and languages to build systems that are easier to reason about, test thoroughly, and maintain over time. My current favourite tools are [Clojure](https://clojure.org/), [PureScript](https://www.purescript.org/) and [Rust](https://www.rust-lang.org/).<br>
 Currently focused on upskilling in embedded systems with Rust, contributing to open source embedded libraries and working on my own hardware projects.
 
 ## Work Experience
@@ -14,9 +14,11 @@ Expanding my knowledge into embedded systems and electronics, with the goal of d
 - Learning [Rust for bare metal embedded applications](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 - Open source contributions to [Embassy](https://embassy.dev/) library - with a significant contribution to [STM32 TSC touch sensing driver](https://github.com/embassy-rs/embassy/tree/b5ab3276dce7322e33946e974770fa91b98124a4/embassy-stm32/src/tsc)
 - PCB design using [KiCAD](https://www.kicad.org/), component sourcing from [Mouser](https://www.mouser.dk/), and manufacturing experience with Aisler/PCBWay
-- Hands-on electronics experience through DIY eurorack kit assembly, soldering, and custom PCB projects
+- Practical exploration of SPI and I2C protocols through hardware prototyping with external chips
+- Learning to use oscilloscope for debugging signals and monitoring digital timing
+- Hands-on electronics experience through DIY eurorack kit assembly, soldering, flashing, and component sourcing
 - Explored UX prototyping using [PureScript Halogen](https://purescript-halogen.github.io/purescript-halogen/) for module interface design
-- **_Technologies:_** Rust, Embedded Rust ([RTIC](https://rtic.rs/2/book/en/), Embassy), PureScript, KiCAD, STM32
+- **_Technologies:_** Rust, Embedded no_std Rust ([RTIC](https://rtic.rs/2/book/en/), Embassy), PureScript, KiCAD, STM32
 - **_Key competencies gained:_** Hardware documentation/datasheet interpretation, open source contribution, initial experience with electronic design and prototyping, initial experience with PCB manufacturing processes
 
 **- Software developer and DevOps** @ [Criipto](https://criipto.com) _(Dec 2021 - Aug 2023)_<br>
@@ -56,7 +58,7 @@ Computer science and engineering education including software development fundam
 
 ## Technical Competences
 **- Programming languages**<br>
-Over the past 15 years, spanning university studies and professional work, I've worked with a diverse range of programming languages, with particular expertise in functional programming developed through both professional work and spare time reading and projects. The most prominent are the following
+Over the past 15 years, spanning university studies and professional work, I've worked with and explored a diverse range of programming languages, with particular expertise in functional programming developed through both professional work and spare time reading and projects. The most prominent languages I have worked with are the following
 - **_Proficient:_** Clojure, F#
 - **_Active Focus:_** Rust
 - **_Intermediate:_** PureScript, Python, JavaScript, NodeJS, C#, Java
@@ -92,6 +94,6 @@ Native Danish and proficient in English
 
 ## Beyond Code
 - **Music:** Playing synthesizers, samplers, and Eurorack modular systems
-- **DIY Electronics:** Assembled and soldered 20+ Eurorack kits and PCBs and designed a custom wooden rack for my modules.
+- **DIY Electronics:** Assembled and soldered 20+ Eurorack modules from kits and PCBs, and designed a custom wooden rack for my modules.
 - **Nature:** Outdoor activities including forest walks, running, and kayaking on Danish lakes
-- **FPV Drones:** Flying [tinywhoop fpv quadcopters](https://en.everybodywiki.com/Tiny_Whoop)
+- **FPV Drones:** Outdoor freestyle and acrobatic flying with [tinywhoop fpv quadcopters](https://en.everybodywiki.com/Tiny_Whoop)
