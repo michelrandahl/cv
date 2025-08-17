@@ -12,7 +12,7 @@ Currently focused on upskilling in embedded systems with Rust, contributing to o
 **- Independent study and working on my own projects** _(Aug 2023 - Present)_<br>
 Expanding my knowledge into embedded systems and electronics, with the goal of developing a commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module. During this intensive learning period I have worked with and gained knowledge across multiple domains:
 - Learning [Rust for bare metal embedded applications](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
-- Open source contributions to [Embassy](https://embassy.dev/) library - with a significant contribution to [STM32 TSC touch sensing driver](https://github.com/embassy-rs/embassy/tree/b5ab3276dce7322e33946e974770fa91b98124a4/embassy-stm32/src/tsc)
+- Open source contributions to [Embassy](https://embassy.dev/) library - with a significant contribution to [STM32 TSC touch sensing driver](https://github.com/embassy-rs/embassy/commits/b5ab3276dce7322e33946e974770fa91b98124a4/embassy-stm32/src/tsc)
 - PCB design using [KiCAD](https://www.kicad.org/), component sourcing from [Mouser](https://www.mouser.dk/), and manufacturing experience with Aisler/PCBWay
 - Practical exploration of SPI and I2C protocols through hardware prototyping with external chips
 - Learning to use oscilloscope for debugging signals and monitoring digital timing
