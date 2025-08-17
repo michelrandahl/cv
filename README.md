@@ -2,7 +2,7 @@
 
 _Backend & Cloud_ | _Functional Programming_ | _Embedded Rust (learning)_
 
-michelrandahl@proton.me / Addr.: Holte, Denmark / [GitHub](https://github.com/michelrandahl) / [Codeberg](https://codeberg.org/michelrandahl) / [LinkedIn](https://linkedin.com/in/michel-randahl)
+michelrandahl@proton.me / Addr.: Holte, Denmark / [GitHub](https://github.com/michelrandahl) / [Codeberg](https://codeberg.org/michelrandahl) / [LinkedIn](https://linkedin.com/in/michel-randahl) / This CV: [michelrandahl.github.io/cv](https://michelrandahl.github.io/cv/)
 
 ## Profile
 Software Developer with nearly 10 years of professional experience, including 7 years specializing in functional programming (FP). I've built everything from custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and cloud applications to fullstack solutions, using FP techniques and languages to build systems that are easier to reason about, test thoroughly, and maintain over time. My current favourite tools are [Clojure](https://clojure.org/), [PureScript](https://www.purescript.org/) and [Rust](https://www.rust-lang.org/).<br>
@@ -12,7 +12,7 @@ Currently focused on upskilling in embedded systems with Rust, contributing to o
 **- Independent study and working on my own projects** _(Aug 2023 - Present)_<br>
 Expanding my knowledge into embedded systems and electronics, with the goal of developing a commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module. During this intensive learning period I have worked with and gained knowledge across multiple domains:
 - Learning [Rust for bare metal embedded applications](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
-- Open source contributions to [Embassy](https://embassy.dev/) library - with a significant contribution to [STM32 TSC touch sensing driver](https://github.com/embassy-rs/embassy/commits/b5ab3276dce7322e33946e974770fa91b98124a4/embassy-stm32/src/tsc)
+- Open source contributions to [Embassy](https://embassy.dev/) library - including significant work on STM32 TSC touch sensing driver ([my contributions](https://github.com/embassy-rs/embassy/commits?author=michelrandahl))
 - PCB design using [KiCAD](https://www.kicad.org/), component sourcing from [Mouser](https://www.mouser.dk/), and manufacturing experience with Aisler/PCBWay
 - Practical exploration of SPI and I2C protocols through hardware prototyping with external chips
 - Learning to use oscilloscope for debugging signals and monitoring digital timing
@@ -86,8 +86,8 @@ Developed security awareness through professional experience, particularly at Cr
 
 **- Development environment**
 - **Linux:** 10+ years as daily driver, currently using [NixOS](https://nixos.org/) for its declarative configuration, reliable package management, and reproducible development environments via [nix flakes](https://nixos.wiki/wiki/Flakes)
-- **Terminal-based workflow:** Extensive experience with command-line tools and shell scripting for efficiency and automation
-- **Version control:** Daily Git and GitHub usage across professional, collaborative, and personal projects
+- **Linux terminal proficiency:** Strong preference for keyboard-driven, terminal-based workflows in daily development
+- **Version control:** Extensive Git and GitHub experience across professional, open source, and personal projects
 
 ## Speaking and Writing
 Native Danish and proficient in English
