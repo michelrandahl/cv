@@ -37,7 +37,7 @@ At Skatteministeriet/UFST, I contributed to modernizing Danish property valuatio
 - Implemented custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and data processing applications for technical and non-technical staff
 - Developed internal tooling to address ecosystem gaps, including a clojure.spec to JSON Schema converter supporting advanced spec features
 - Participated in DevOps practices including infrastructure management and security operations
-- **_Technologies:_** Clojure (spec, async, various ecosystem libraries), ClojureScript, AWS, Event Sourcing, PostgreSQL, Cassandra, Terraform, Docker, Jenkins
+- **_Technologies:_** Clojure (spec, async, various ecosystem libraries), ClojureScript, AWS, Serverless architecture (lambda, API Gateway, SNS, SQS), Event Sourcing, PostgreSQL, Cassandra, Terraform, Docker, Jenkins
 - **_Key competencies gained:_** Large-scale government project experience, cross-functional team collaboration, code reviewing and pair programming practices, cloud application development, security vulnerability management
 
 **- Intern and part time Software developer** @ Noitso _(Feb 2013 - Aug 2014)_<br>
