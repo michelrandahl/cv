@@ -9,16 +9,15 @@ Software Developer with nearly 10 years of professional experience. I've built e
 Currently focused on upskilling in embedded systems with Rust, contributing to open source embedded libraries and working on my own hardware projects.
 
 ## Work Experience
-**- Independent study and working on my own projects** _(Aug 2023 - Present)_<br>
-Learning embedded systems and electronics while aiming to develop a commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module. This project combines hands-on learning with product development across multiple domains:
+**- Independent Learning & Hardware Product Development** _(Aug 2023 - Present)_<br>
+Mid 2023 I decided to take a career break to explore areas beyond traditional fullstack development. Since then I've independently learned embedded Rust, electronics design, PureScript, contributed to open source, and begun developing my own commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module.
 - Learning [Rust for bare metal embedded applications](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 - Open source contributions to [Embassy](https://embassy.dev/) library - including significant work on STM32 TSC touch sensing driver ([my contributions](https://github.com/embassy-rs/embassy/commits?author=michelrandahl))
 - Learning PCB design with [KiCAD](https://www.kicad.org/), including prototype manufacturing through Aisler/PCBWay
-- Practical exploration of SPI and I2C protocols through hardware prototyping with external chips
-- Learning to use oscilloscope for debugging signals and monitoring digital timing
-- Hands-on electronics experience through DIY eurorack kit assembly, soldering, flashing, and component sourcing
-- Explored UX prototyping using [PureScript Halogen](https://purescript-halogen.github.io/purescript-halogen/) for module interface design
-- **_Technologies:_** Rust, Embedded no_std Rust ([RTIC](https://rtic.rs/2/book/en/), Embassy), PureScript, KiCAD, STM32
+- Practical exploration and learning about digital protocols such as [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) and [I2C](https://en.wikipedia.org/wiki/I%C2%B2C)
+- Learning to use oscilloscope for debugging signals, monitoring digital timing and analyzing performance
+- Building on my foundational analog and digital electronics knowledge through hands-on assembly of 20+ DIY eurorack modules, actively investigating component roles and learning about basic circuit principles
+- **_Technologies:_** Rust, Embedded no_std Rust ([RTIC](https://rtic.rs/2/book/en/), Embassy), PureScript, [PureScript Halogen](https://purescript-halogen.github.io/purescript-halogen/), KiCAD, STM32
 - **_Key competencies gained:_** Working with STM32 MCUs, open source contribution, initial experience with electronic design and prototyping, initial experience with PCB manufacturing processes
 
 **- Software developer and DevOps** @ [Criipto](https://criipto.com) _(Dec 2021 - Aug 2023)_<br>
