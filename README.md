@@ -5,7 +5,7 @@ _Backend & Cloud_ | _Functional Programming_ | _Embedded Rust (learning)_
 michelrandahl@proton.me / Addr.: Holte, Denmark / [GitHub](https://github.com/michelrandahl) / [Codeberg](https://codeberg.org/michelrandahl) / [LinkedIn](https://linkedin.com/in/michel-randahl) / This CV: [michelrandahl.github.io/cv](https://michelrandahl.github.io/cv/)
 
 ## Profile
-Software Developer with nearly 10 years of professional experience. I've built everything from custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and cloud applications to fullstack solutions.<br>
+Software Developer with extensive professional experience across backend systems, cloud applications, and fullstack solutions.<br>
 Currently focused on upskilling in embedded systems with Rust, contributing to open source embedded libraries and working on my own hardware projects.
 
 ## Work Experience
@@ -13,11 +13,11 @@ Currently focused on upskilling in embedded systems with Rust, contributing to o
 Mid 2023 I decided to take a career break to explore areas beyond traditional fullstack development. Since then I've independently learned embedded Rust, electronics design, PureScript, contributed to open source, and begun developing my own commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module.
 - Learning [Rust for bare metal embedded applications](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 - Open source contributions to [Embassy](https://embassy.dev/) library - including significant work on STM32 TSC touch sensing driver ([my contributions](https://github.com/embassy-rs/embassy/commits?author=michelrandahl))
-- Learning PCB design with [KiCAD](https://www.kicad.org/), including prototype manufacturing through Aisler/PCBWay
-- Practical exploration and learning about digital protocols such as [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) and [I2C](https://en.wikipedia.org/wiki/I%C2%B2C)
+- Learning PCB design with [KiCAD](https://www.kicad.org/), including prototype manufacturing through [Aisler](https://aisler.net/) and [PCBWay](https://www.pcbway.com/)
+- Practical exploration and learning about low level digital protocols such as [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) and [I2C](https://en.wikipedia.org/wiki/I%C2%B2C)
 - Learning to use oscilloscope for debugging signals, monitoring digital timing and analyzing performance
-- Building on my foundational analog and digital electronics knowledge through hands-on assembly of 20+ DIY eurorack modules, actively investigating component roles and learning about basic circuit principles
-- **_Technologies:_** Rust, Embedded no_std Rust ([RTIC](https://rtic.rs/2/book/en/), Embassy), PureScript, [PureScript Halogen](https://purescript-halogen.github.io/purescript-halogen/), KiCAD, STM32
+- Building on my foundational analog and digital electronics knowledge through hands-on assembly of DIY eurorack modules, actively investigating component roles and learning about basic circuit principles
+- **_Technologies:_** Rust, Embedded Rust ([RTIC](https://rtic.rs/2/book/en/), Embassy), PureScript ([Halogen](https://purescript-halogen.github.io/purescript-halogen/)), KiCAD, STM32
 - **_Key competencies gained:_** Working with STM32 MCUs, open source contribution, initial experience with electronic design and prototyping, initial experience with PCB manufacturing processes
 
 **- Software developer and DevOps** @ [Criipto](https://criipto.com) _(Dec 2021 - Aug 2023)_<br>
@@ -34,9 +34,9 @@ At Criipto, an [e-ID](https://en.wikipedia.org/wiki/Electronic_identification) s
 At Skatteministeriet/UFST, I contributed to modernizing Danish property valuation and taxation systems:
 - Worked on the Event Sourcing backend, API implementations and contributed to the frontend development
 - Implemented custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and data processing applications for technical and non-technical staff
-- Developed internal tooling to address ecosystem gaps, including a clojure.spec to JSON Schema converter supporting advanced spec features
+- Developed internal tooling, for example a clojure.spec to JSON Schema converter supporting advanced spec features
 - Participated in DevOps practices including infrastructure management and security operations
-- **_Technologies:_** Clojure (spec, async, various ecosystem libraries), ClojureScript, AWS, Serverless architecture (lambda, API Gateway, SNS, SQS), Event Sourcing, PostgreSQL, Cassandra, Terraform, Docker, Jenkins
+- **_Technologies:_** Clojure, ClojureScript, AWS, Serverless architecture (lambda, API Gateway, SNS, SQS), Event Sourcing, PostgreSQL, Cassandra, Terraform, Docker, Jenkins
 - **_Key competencies gained:_** Large-scale government project experience, cross-functional team collaboration, code reviewing and pair programming practices, cloud application development, security vulnerability management
 
 **- Intern and part time Software developer** @ Noitso _(Feb 2013 - Aug 2014)_<br>
@@ -53,13 +53,13 @@ Computer science and engineering education including software development fundam
 - Exchange semester at [Tohoku University, Sendai, Japan](https://www.eng.tohoku.ac.jp/english/) - coursework and project in space robotics lab
 - **_MSc Thesis:_** [Model Checking Safety Properties of Distributed Railway Control Systems](http://www2.imm.dtu.dk/pubdb/edoc/imm6955.pdf)
 - **_BEng Thesis:_** Artificial Neural Network based system for predictive home lighting control
-- **_Internship:_** Noitso (detailed above, under work experience)
+- **_Internship:_** Noitso (detailed above under work experience)
 
 ## Technical Competences
 **- Programming languages**<br>
-Over 15 years of university, professional, and personal projects, I've explored diverse programming languages with particular interest in functional programming. Some of the most prominent languages I have worked with:
+Over 15 years of university, professional, and personal projects, I've explored diverse programming languages with particular interest in functional programming. A subset of the most prominent languages I have worked with:
 - **_Proficient:_** [Clojure](https://clojure.org/), [F#](https://dotnet.microsoft.com/en-us/languages/fsharp)
-- **_Active Focus:_** [Rust](https://www.rust-lang.org/) (mostly no_std)
+- **_Active Focus:_** [Rust](https://www.rust-lang.org/)
 - **_Intermediate:_** [PureScript](https://www.purescript.org/), Python, JavaScript, NodeJS, C#, Java
 
 **- Testing**<br>
