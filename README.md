@@ -6,12 +6,12 @@ michelrandahl@proton.me / Addr.: Holte, Denmark / [GitHub](https://github.com/mi
 
 ## Profile
 Software Developer with extensive professional experience across backend systems, cloud applications, and fullstack solutions.<br>
-Currently focused on upskilling in embedded systems with Rust, contributing to open source embedded libraries and working on my own hardware projects.
+Currently focused on upskilling in embedded systems with Rust, contributing to open source embedded Rust libraries and working on my own hardware projects.
 
 ## Work Experience
 **- Independent Learning & Hardware Product Development** _(Aug 2023 - Present)_<br>
 Mid 2023 I decided to take a career break to explore areas beyond traditional fullstack development. Since then I've independently learned embedded Rust, electronics design, PureScript, contributed to open source, and begun developing my own commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module.
-- Learning [Rust for bare metal embedded applications](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+- Learning [Rust for bare-metal embedded applications (no_std)](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 - Open source contributions to [Embassy](https://embassy.dev/) library - including significant work on STM32 TSC touch sensing driver ([my contributions](https://github.com/embassy-rs/embassy/commits?author=michelrandahl))
 - Learning PCB design with [KiCAD](https://www.kicad.org/), including prototype manufacturing through [Aisler](https://aisler.net/) and [PCBWay](https://www.pcbway.com/)
 - Practical exploration and learning about low level digital protocols such as [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) and [I2C](https://en.wikipedia.org/wiki/I%C2%B2C)
