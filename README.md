@@ -1,6 +1,6 @@
 # Michel Bøje Randahl Nielsen
 
-_Backend & Cloud_ | _Functional Programming_ | _Embedded Rust (learning)_
+_Backend & Cloud_ | _Functional Programming_ | _Embedded Rust_
 
 michelrandahl@proton.me / Addr.: Holte, Denmark / [GitHub](https://github.com/michelrandahl) / [Codeberg](https://codeberg.org/michelrandahl) / [LinkedIn](https://linkedin.com/in/michel-randahl) / This CV: [michelrandahl.github.io/cv](https://michelrandahl.github.io/cv/)
 
@@ -10,15 +10,13 @@ Currently focused on upskilling in embedded systems with Rust, contributing to o
 
 ## Work Experience
 **- Independent Learning & Hardware Product Development** _(Aug 2023 - Present)_<br>
-Mid 2023 I decided to take a career break to explore areas beyond traditional fullstack development. Since then I've independently learned embedded Rust, electronics design, PureScript, contributed to open source, and begun developing my own commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module.
+Mid 2023 I decided to take a career break to explore areas beyond fullstack development. Since then I have independently studied embedded Rust, electronics design, contributed to open source - while working on my own commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module. I also continue to deepen my knowledge in areas of existing expertise, such as functional programming, systems programming, and security fundamentals.
 - Learning [Rust for bare-metal embedded applications (no_std)](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 - Open source contributions to [Embassy](https://embassy.dev/) library - including significant work on STM32 TSC touch sensing driver ([my contributions](https://github.com/embassy-rs/embassy/commits?author=michelrandahl))
 - Learning PCB design with [KiCAD](https://www.kicad.org/), including prototype manufacturing through [Aisler](https://aisler.net/) and [PCBWay](https://www.pcbway.com/)
 - Practical exploration and learning about low level digital protocols such as [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) and [I2C](https://en.wikipedia.org/wiki/I%C2%B2C)
-- Learning to use oscilloscope for debugging signals, monitoring digital timing and analyzing performance
-- Building on my foundational analog and digital electronics knowledge through hands-on assembly of DIY eurorack modules, actively investigating component roles and learning about basic circuit principles
-- **_Technologies:_** Rust, Embedded Rust ([RTIC](https://rtic.rs/2/book/en/), Embassy), PureScript ([Halogen](https://purescript-halogen.github.io/purescript-halogen/)), KiCAD, STM32
-- **_Key competencies gained:_** Working with STM32 MCUs, open source contribution, initial experience with electronic design and prototyping, initial experience with PCB manufacturing processes
+- **_Technologies:_** Rust, Embedded Rust ([RTIC](https://rtic.rs/2/book/en/), Embassy), KiCAD, STM32
+- **_Key competencies gained:_** Practical experience with STM32 MCUs, open source contribution, hands-in learning in electronic design and prototyping, initial experience with PCB manufacturing processes, basic oscilloscope usage
 
 **- Software developer and DevOps** @ [Criipto](https://criipto.com) _(Dec 2021 - Aug 2023)_<br>
 At Criipto, an [e-ID](https://en.wikipedia.org/wiki/Electronic_identification) solutions broker, I:
@@ -47,23 +45,26 @@ At Noitso, a financial technology and custom software development company, I:
 - **_Key competencies gained:_** Customer-facing software development and support experience
 
 ## Education
-**- MSc Computer Science and Engineering, BEng Information Technology** @ DTU _(Sep 2009 - Oct 2016)_<br>
-Computer science and engineering education including software development fundamentals, algorithms, hardware/software programming, and advanced topics such as Fault Tolerant Systems, Data Mining, and Formal Software Engineering.
+**- MSc Computer Science and Engineering** @ DTU _(Feb 2014 - Oct 2016)_<br>
+Studying topics such as Fault Tolerant Systems, Data Mining, Stochastic Simulation, Model Checking and Formal Software Engineering.
 - Teaching Assistant for [Formal Aspects of Software Engineering](https://kurser.dtu.dk/course/02263) course
-- Exchange semester at [Tohoku University, Sendai, Japan](https://www.eng.tohoku.ac.jp/english/) - coursework and project in space robotics lab
+- Exchange semester at [Tohoku University, Sendai, Japan](https://www.eng.tohoku.ac.jp/english/) - coursework and small project in space robotics lab
 - **_MSc Thesis:_** [Model Checking Safety Properties of Distributed Railway Control Systems](http://www2.imm.dtu.dk/pubdb/edoc/imm6955.pdf)
+
+**- BEng Information Technology** @ DTU _(Sep 2009 - Jan 2014)_<br>
+Learning Software Development and Computer Science fundamentals, such as Software Design, Databases, Algorithms and Datastructures, Hardware/Software programming, Introduction to Artificial Intelligence and Machine Learning.
 - **_BEng Thesis:_** Artificial Neural Network based system for predictive home lighting control
 - **_Internship:_** Noitso (detailed above under work experience)
 
 ## Technical Competences
 **- Programming languages**<br>
-Over 15 years of university, professional, and personal projects, I've explored diverse programming languages with particular interest in functional programming. A subset of the most prominent languages I have worked with:
-- **_Proficient:_** [Clojure](https://clojure.org/), [F#](https://dotnet.microsoft.com/en-us/languages/fsharp)
+I've explored and used many different programming languages, with a particular interest in functional programming. Here is an overview of some of the languages that I have used the most:
+- **_Proficient:_** [Clojure](https://clojure.org/), [F#](https://dotnet.microsoft.com/en-us/languages/fsharp), [PureScript](https://www.purescript.org/)
 - **_Active Focus:_** [Rust](https://www.rust-lang.org/)
-- **_Intermediate:_** [PureScript](https://www.purescript.org/), Python, JavaScript, NodeJS, C#, Java
+- **_Intermediate:_** Python, JavaScript, NodeJS, C#, Java
 
 **- Testing**<br>
-Experience with unit testing and [property-based testing](https://en.wikipedia.org/wiki/Software_testing#Property_testing) across multiple languages
+Experience with [property-based testing](https://en.wikipedia.org/wiki/Software_testing#Property_testing) across multiple languages
 
 **- Databases**<br>
 Extensive experience with SQL databases and some exposure to NoSQL:
@@ -82,10 +83,10 @@ Developed security awareness through professional experience, particularly at Cr
 - Maintain good personal security practices including device encryption and regular system updates
 - Familiar with [OWASP Top Ten](https://owasp.org/www-project-top-ten/) security risks and their application to software development
 - Experience with vulnerability management through CVE report analysis and dependency updates
+- Ongoing study of security fundamentals including Linux security, basic exploitation techniques, and reverse engineering concepts
 
 **- Development environment**
 - **Linux:** 10+ years daily use, currently [NixOS](https://nixos.org/)
-- **Linux terminal proficiency:** Strong preference for keyboard-driven, terminal-based workflows in daily development
 - **Version control:** Extensive Git and GitHub experience across professional, open source, and personal projects
 
 ## Speaking and Writing
