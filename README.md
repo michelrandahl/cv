@@ -10,18 +10,18 @@ Currently focused on upskilling in embedded systems with Rust, contributing to o
 
 ## Work Experience
 **- Independent Learning & Hardware Product Development** _(Aug 2023 - Present)_<br>
-Mid 2023 I decided to take a career break to explore areas beyond fullstack development. Since then I have independently studied embedded Rust, electronics design, contributed to open source - while working on my own commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module. I also continue to deepen my knowledge in areas of existing expertise, such as functional programming, systems programming, and security fundamentals.
-- Learning [Rust for bare-metal embedded applications (no_std)](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+In mid 2023 I decided to take a career break to explore areas beyond fullstack development. Since then I have independently studied embedded Rust, electronics design, contributed to open source - while working on my own commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module. Additionally, I also continue to deepen my knowledge in areas of existing expertise, such as functional programming (PureScript) and security fundamentals.
+- Learning [Rust for bare-metal embedded applications](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 - Open source contributions to [Embassy](https://embassy.dev/) library - including significant work on STM32 TSC touch sensing driver ([my contributions](https://github.com/embassy-rs/embassy/commits?author=michelrandahl))
 - Learning PCB design with [KiCAD](https://www.kicad.org/), including prototype manufacturing through [Aisler](https://aisler.net/) and [PCBWay](https://www.pcbway.com/)
 - Practical exploration and learning about low level digital protocols such as [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) and [I2C](https://en.wikipedia.org/wiki/I%C2%B2C)
-- **_Technologies:_** Rust, Embedded Rust ([RTIC](https://rtic.rs/2/book/en/), Embassy), KiCAD, STM32
-- **_Key competencies gained:_** Practical experience with STM32 MCUs, open source contribution, hands-in learning in electronic design and prototyping, initial experience with PCB manufacturing processes, basic oscilloscope usage
+- **_Technologies:_** Rust, Embedded Rust, [RTIC](https://rtic.rs/2/book/en/), KiCAD, STM32
+- **_Key competencies gained:_** Practical experience with STM32 MCUs, open source contribution, hands-on learning in electronic design and prototyping, initial experience with PCB manufacturing processes, basic oscilloscope operation
 
-**- Software developer and DevOps** @ [Criipto](https://criipto.com) _(Dec 2021 - Aug 2023)_<br>
-At Criipto, an [e-ID](https://en.wikipedia.org/wiki/Electronic_identification) solutions broker, I:
+**- Software developer and DevOps** @ [Criipto](https://idura.eu) (now Idura) _(Dec 2021 - Aug 2023)_<br>
+At Criipto, a broker for government and bank-issued digital identities, I:
 - Built [Stripe](https://stripe.com/en-dk) integration and billing systems
-- Developed audit logging systems for e-ID usage tracking
+- Developed audit logging systems for digital identity usage tracking
 - Created demo applications, prototypes, and worked on the customer account management platform
 - Implemented ETL jobs and supported data warehouse operations
 - Automated infrastructure using [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep) (Infrastructure as Code) and [GitHub Actions](https://docs.github.com/en/actions) for CI/CD
@@ -34,8 +34,8 @@ At Skatteministeriet/UFST, I contributed to modernizing Danish property valuatio
 - Implemented custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and data processing applications for technical and non-technical staff
 - Developed internal tooling, for example a clojure.spec to JSON Schema converter supporting advanced spec features
 - Participated in DevOps practices including infrastructure management and security operations
-- **_Technologies:_** Clojure, ClojureScript, AWS, Serverless architecture (lambda, API Gateway, SNS, SQS), Event Sourcing, PostgreSQL, Cassandra, Terraform, Docker, Jenkins
-- **_Key competencies gained:_** Large-scale government project experience, cross-functional team collaboration, code reviewing and pair programming practices, cloud application development, security vulnerability management
+- **_Technologies:_** Clojure, ClojureScript, AWS, Serverless architecture, Event Sourcing, PostgreSQL, Cassandra, Terraform, Docker, Jenkins
+- **_Key competencies gained:_** Large-scale government project experience, collaboration across technical and non-technical teams, code review and pair programming practices, cloud application development, security vulnerability management
 
 **- Intern and part time Software developer** @ Noitso _(Feb 2013 - Aug 2014)_<br>
 At Noitso, a financial technology and custom software development company, I:
@@ -58,10 +58,10 @@ Learning Software Development and Computer Science fundamentals, such as Softwar
 
 ## Technical Competences
 **- Programming languages**<br>
-I've explored and used many different programming languages, with a particular interest in functional programming. Here is an overview of some of the languages that I have used the most:
-- **_Proficient:_** [Clojure](https://clojure.org/), [F#](https://dotnet.microsoft.com/en-us/languages/fsharp), [PureScript](https://www.purescript.org/)
-- **_Active Focus:_** [Rust](https://www.rust-lang.org/)
-- **_Intermediate:_** Python, JavaScript, NodeJS, C#, Java
+Extensive experience across multiple languages with particular focus on functional programming:
+- **Proficient:** [Clojure](https://clojure.org/), [F#](https://dotnet.microsoft.com/en-us/languages/fsharp), [PureScript](https://www.purescript.org/)
+- **Active focus:** [Rust](https://www.rust-lang.org/)
+- **Previous experience:** Python, JavaScript/NodeJS, TypeScript, C#, Java
 
 **- Testing**<br>
 Experience with [property-based testing](https://en.wikipedia.org/wiki/Software_testing#Property_testing) across multiple languages
@@ -79,11 +79,11 @@ Some experience with cloud platforms and DevOps practices:
 - **Tools:** Docker, Jenkins, Makefiles, Terraform
 
 **- Security**<br>
-Developed security awareness through professional experience, particularly at Criipto:
-- Maintain good personal security practices including device encryption and regular system updates
-- Familiar with [OWASP Top Ten](https://owasp.org/www-project-top-ten/) security risks and their application to software development
-- Experience with vulnerability management through CVE report analysis and dependency updates
-- Ongoing study of security fundamentals including Linux security, basic exploitation techniques, and reverse engineering concepts
+Security-conscious with growing interest in offensive security:
+- Experience working in security-critical environments (government-certified digital identity broker)
+- Vulnerability management through CVE analysis and dependency updates
+- Familiarity with [OWASP Top Ten](https://owasp.org/www-project-top-ten/) security risks
+- Active exploration of security topics through OverTheWire challenges and books
 
 **- Development environment**
 - **Linux:** 10+ years daily use, currently [NixOS](https://nixos.org/)
