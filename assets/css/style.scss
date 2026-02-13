@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 // Reduce space between paragraphs and following lists
-p + ul {
-    margin-top: 0 !important;
+p:has(+ ul) {
+    margin-bottom: 0.3em !important;
 }
 
 // Reduce space after h3 subheadings
