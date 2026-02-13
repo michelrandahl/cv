@@ -9,7 +9,7 @@ Software Developer with extensive professional experience across backend systems
 Currently focused on upskilling in embedded systems with Rust, contributing to open source embedded Rust libraries and working on my own hardware projects.
 
 ## Work Experience
-**- Independent Learning & Hardware Product Development** _(Aug 2023 - Present)_<br>
+### Independent Learning & Hardware Product Development _(Aug 2023 - Present)_
 In mid 2023 I decided to take a career break to explore areas beyond fullstack development. Since then I have independently studied embedded Rust, electronics design, contributed to open source - while working on my own commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module. Additionally, I also continue to deepen my knowledge in areas of existing expertise, such as functional programming (PureScript) and security fundamentals.
 - Learning [Rust for bare-metal embedded applications](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 - Open source contributions to [Embassy](https://embassy.dev/) library ([my contributions](https://github.com/embassy-rs/embassy/pulls?q=author:michelrandahl))
