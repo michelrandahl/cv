@@ -10,27 +10,27 @@ Currently focused on upskilling in embedded systems with Rust, contributing to o
 
 ## Work Experience
 ### Independent Learning & Hardware Product Development _(Aug 2023 - Present)_
-In mid 2023 I decided to take a career break to explore areas beyond fullstack development. Since then I have independently studied embedded Rust, electronics design, contributed to open source - while working on my own commercial [eurorack](https://en.wikipedia.org/wiki/Eurorack) module. Additionally, I also continue to deepen my knowledge in areas of existing expertise, such as functional programming (PureScript) and security fundamentals.
-- Learning [Rust for bare-metal embedded applications](https://www.rust-lang.org/what/embedded), focusing on [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
-- Open source contributions to [Embassy](https://embassy.dev/) library ([my contributions](https://github.com/embassy-rs/embassy/pulls?q=author:michelrandahl))
-- Learning PCB design with [KiCAD](https://www.kicad.org/), including prototype manufacturing through [Aisler](https://aisler.net/) and [PCBWay](https://www.pcbway.com/)
-- Practical exploration and learning about low level digital protocols such as [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) and [I2C](https://en.wikipedia.org/wiki/I%C2%B2C)
-- **_Technologies:_** Rust, Embedded Rust, [RTIC](https://rtic.rs/2/book/en/), KiCAD, STM32
-- **_Key competencies gained:_** Practical experience with STM32 MCUs, open source contribution, hands-on learning in electronic design and prototyping, initial experience with PCB design and manufacturing, basic oscilloscope operation
+In mid 2023 I decided to take a career break to explore a growing passion for embedded systems and electronic design, while working towards my own commercial eurorack modules and musical controllers. During this period I have:
+- Contributed to Open source, the [Embassy](https://embassy.dev/) embedded Rust ecosystem ([my contributions](https://github.com/embassy-rs/embassy/pulls?q=author:michelrandahl))
+- Learned circuit and PCB design in [KiCAD](https://www.kicad.org/), from schematic through manufacturing (JLCPCB, Aisler, PCBWay), component sourcing (Mouser), hand assembly, verification, troubleshooting, and programming.
+- Designed and programmed bare-metal firmware applications in Rust, targeting [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) using the Rust Embassy async framework and [RTIC](https://rtic.rs/2/book/en/)
+- On the side, continued to maintain and deepen existing expertise in functional programming (learning PureScript), and explore security fundamentals through reading and [OverTheWire](https://overthewire.org/wargames/) exercises
+- **_Technologies:_** Rust, Embedded Rust, RTIC, KiCAD, STM32
+- **_Key competencies gained:_** Hardware prototyping, PCB design and manufacturing, embedded firmware development, Open Source contribution
 
 ### Software developer and DevOps @ [Criipto](https://idura.eu) (now Idura) _(Dec 2021 - Aug 2023)_
 At Criipto, a broker for government and bank-issued digital identities, I:
-- Built [Stripe](https://stripe.com/en-dk) integration and billing systems
-- Developed audit logging systems for digital identity usage tracking
-- Created demo applications, prototypes, and worked on the customer account management platform
+- Contributed to [Stripe](https://stripe.com/en-dk) integration and billing systems
+- Worked on audit logging systems for digital identity usage tracking
 - Implemented ETL jobs and supported data warehouse operations
+- Developed demo applications, prototypes, and worked on the customer account management platform
 - Automated infrastructure using [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep) (Infrastructure as Code) and [GitHub Actions](https://docs.github.com/en/actions) for CI/CD
 - **_Technologies:_** F#, C#, NodeJS, React, TypeScript, Azure, Bicep, Stripe, GitHub Actions
 - **_Key competencies gained:_** Security-focused development practices, payment systems integration, cloud infrastructure automation
 
 ### Software developer @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(Jan 2017 - Nov 2021)_
 At Skatteministeriet/UFST, I contributed to modernizing Danish property valuation and taxation systems:
-- Worked on the Event Sourcing backend, API design and implementations, internal tooling and contributed to the frontend development
+- Contributed to the Event Sourcing backend, API design and implementations, internal tooling and contributed to the frontend development
 - Designed and implemented custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and data processing applications for technical and non-technical staff
 - Participated in DevOps practices including infrastructure management and security operations
 - **_Technologies:_** Clojure, ClojureScript, AWS, Serverless architecture, Event Sourcing, PostgreSQL, Cassandra, Terraform, Docker, Jenkins
@@ -81,11 +81,11 @@ Security-conscious with growing interest in offensive security:
 - Experience working in security-critical environments (government-certified digital identity broker)
 - Vulnerability management through CVE analysis and dependency updates
 - Familiarity with [OWASP Top Ten](https://owasp.org/www-project-top-ten/) security risks
-- Active exploration of practical security topics through OverTheWire challenges
+- Active exploration of practical security topics through [OverTheWire](https://overthewire.org/wargames/) exercises
 
 ### Development environment
-- **Linux:** 10+ years daily use, currently [NixOS](https://nixos.org/)
-- **Workflow:** Terminal-driven; comfortable living in the CLI
+- **Linux:** 10+ years daily use. Debian in the past and [NixOS](https://nixos.org/) for the past 8 years
+- **Workflow:** Terminal-driven; comfortable living in the terminal
 - **Version control:** Git across professional, open source, and personal projects
 
 ## Speaking and Writing
@@ -94,5 +94,5 @@ Native Danish and proficient in English
 ## Beyond Code
 - **Music:** Playing synthesizers, samplers, and Eurorack modular systems
 - **DIY Electronics:** Assembly and soldering of Eurorack modules; designed and built a custom rack for my Eurorack modular system
-- **Nature:** Outdoor activities including forest walks, running, and kayaking
-- **FPV Drones:** Freestyle and acrobatic flying with [tinywhoop FPV quadcopters](https://en.everybodywiki.com/Tiny_Whoop)
+- **Nature:** Being outdoors, forest walks, running, and kayaking
+- **FPV Drones:** [tinywhoop FPV quadcopters](https://en.everybodywiki.com/Tiny_Whoop) and playing FPV racing simulations
