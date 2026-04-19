@@ -10,13 +10,16 @@ Currently focused on upskilling in embedded systems with Rust, contributing to o
 
 ## Work Experience
 ### Independent Learning & Hardware Product Development _(Aug 2023 - Present)_
-In mid 2023 I decided to take a career break to explore a growing passion for embedded systems and electronic design, while working towards my own commercial eurorack modules and musical controllers. During this period I have:
-- Contributed to Open source, the [Embassy](https://embassy.dev/) embedded Rust ecosystem ([my contributions](https://github.com/embassy-rs/embassy/pulls?q=author:michelrandahl))
-- Learned circuit and PCB design in [KiCAD](https://www.kicad.org/), from schematic through manufacturing (JLCPCB, Aisler, PCBWay), component sourcing (Mouser), hand assembly, verification, troubleshooting, and programming.
-- Designed and programmed bare-metal firmware applications in Rust, targeting [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) using the Rust Embassy async framework and [RTIC](https://rtic.rs/2/book/en/)
-- On the side, continued to maintain and deepen existing expertise in functional programming (learning PureScript), and explore security fundamentals through reading and [OverTheWire](https://overthewire.org/wargames/) exercises
-- **_Technologies:_** Rust, Embedded Rust, RTIC, KiCAD, STM32
-- **_Key competencies gained:_** Hardware prototyping, PCB design and manufacturing, embedded firmware development, Open Source contribution
+Career break to develop embedded systems and electronics expertise, working toward commercial eurorack modules and musical controllers. During this period I have:
+- Contributed to [Embassy](https://embassy.dev/), an open source embedded Rust ecosystem ([my contributions](https://github.com/embassy-rs/embassy/pulls?q=author:michelrandahl))
+- Designed and programmed bare-metal firmware in Rust for [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html), using the Embassy HAL with firmware built on both the Embassy async runtime and the [RTIC](https://rtic.rs/2/book/en/) framework
+- Learned end-to-end PCB development in [KiCAD](https://www.kicad.org/): schematic design, manufacturing (JLCPCB, Aisler, PCBWay), component sourcing (Mouser), hand assembly/soldering, verification and troubleshooting
+- Designed, manufactured, and programmed a custom PCB with MCU for evaluating capacitive touch-sensing configurations
+- Currently developing a modular prototyping platform: a shared mainboard and MCU with interchangeable expansion boards, enabling rapid iteration on multiple module designs from a common foundation
+- Maintained application-development and functional programming skills through PureScript projects: standalone applications running on NodeJS, API consumption (including LLM APIs), and web frontends using the PureScript Halogen framework
+- Explored practical security topics through [OverTheWire](https://overthewire.org/wargames/) wargames and related reading
+- **_Technologies:_** Rust, Embedded Rust, Embassy, RTIC, KiCAD, STM32, PureScript, Halogen
+- **_Key competencies gained:_** Hardware prototyping, PCB design and manufacturing, embedded firmware development, open source contribution
 
 ### Software developer and DevOps @ [Criipto](https://idura.eu) (now Idura) _(Dec 2021 - Aug 2023)_
 At Criipto, a broker for government and bank-issued digital identities, I:
