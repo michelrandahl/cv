@@ -13,13 +13,14 @@ Currently focused on upskilling in embedded systems with Rust, contributing to o
 Career break to develop embedded systems and electronics expertise, working toward commercial eurorack modules and musical controllers. During this period I have:
 - Contributed to [Embassy](https://embassy.dev/), an open source embedded Rust ecosystem ([my contributions](https://github.com/embassy-rs/embassy/pulls?q=author:michelrandahl))
 - Designed and programmed bare-metal firmware in Rust for [STM32 microcontrollers](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html), using the Embassy HAL with firmware built on both the Embassy async runtime and the [RTIC](https://rtic.rs/2/book/en/) framework
-- Learned end-to-end PCB development in [KiCAD](https://www.kicad.org/): schematic design, manufacturing (JLCPCB, Aisler, PCBWay), component sourcing (Mouser), hand assembly/soldering, verification and troubleshooting
+- Learned end-to-end PCB development: schematic design and PCB layout in [KiCAD](https://www.kicad.org/), manufacturing (JLCPCB, Aisler, PCBWay), component sourcing (Mouser), hand assembly and soldering, verification and troubleshooting
 - Designed, manufactured, and programmed a custom PCB with MCU for evaluating capacitive touch-sensing configurations
 - Currently developing a modular prototyping platform: a shared mainboard and MCU with interchangeable expansion boards, enabling rapid iteration on multiple module designs from a common foundation
-- Maintained application-development and functional programming skills through PureScript projects: standalone applications running on NodeJS, API consumption (including LLM APIs), and web frontends using the PureScript Halogen framework
+- Worked on PureScript application projects during the first part of my career break: standalone applications running on NodeJS, API consumption (including LLM APIs), and web frontends using the PureScript Halogen framework
 - Explored practical security topics through [OverTheWire](https://overthewire.org/wargames/) wargames and related reading
-- **_Technologies:_** Rust, Embedded Rust, Embassy, RTIC, KiCAD, STM32, PureScript, Halogen
-- **_Key competencies gained:_** Hardware prototyping, PCB design and manufacturing, embedded firmware development, open source contribution
+
+**_Technologies:_** Rust, Embedded Rust, Embassy, RTIC, KiCAD, STM32, PureScript, Halogen<br>
+**_Key competencies gained:_** Hardware prototyping, PCB design and manufacturing, embedded firmware development, open source contribution
 
 ### Software developer and DevOps @ [Criipto](https://idura.eu) (now Idura) _(Dec 2021 - Aug 2023)_
 At Criipto, a broker for government and bank-issued digital identities, I:
@@ -28,23 +29,26 @@ At Criipto, a broker for government and bank-issued digital identities, I:
 - Implemented ETL jobs and supported data warehouse operations
 - Developed demo applications, prototypes, and worked on the customer account management platform
 - Automated infrastructure using [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep) (Infrastructure as Code) and [GitHub Actions](https://docs.github.com/en/actions) for CI/CD
-- **_Technologies:_** F#, C#, NodeJS, React, TypeScript, Azure, Bicep, Stripe, GitHub Actions
-- **_Key competencies gained:_** Security-focused development practices, payment systems integration, cloud infrastructure automation
+
+**_Technologies:_** F#, C#, NodeJS, React, TypeScript, Azure, Bicep, Stripe, GitHub Actions<br>
+**_Key competencies gained:_** Security-focused development practices, payment systems integration, cloud infrastructure automation
 
 ### Software developer @ [Skatteministeriet / UFST (udviklings og forenklingsstyrelsen)](https://www.ufst.dk/) _(Jan 2017 - Nov 2021)_
 At Skatteministeriet/UFST, I contributed to modernizing Danish property valuation and taxation systems:
 - Contributed to the Event Sourcing backend, API design and implementations, internal tooling and contributed to the frontend development
 - Designed and implemented custom [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines and data processing applications for technical and non-technical staff
 - Participated in DevOps practices including infrastructure management and security operations
-- **_Technologies:_** Clojure, ClojureScript, AWS, Serverless architecture, Event Sourcing, PostgreSQL, Cassandra, Terraform, Docker, Jenkins
-- **_Key competencies gained:_** Large-scale government project experience, collaboration across technical and non-technical teams, code review and pair programming practices, cloud application development, security vulnerability management
+
+**_Technologies:_** Clojure, ClojureScript, AWS, Serverless architecture, Event Sourcing, PostgreSQL, Cassandra, Terraform, Docker, Jenkins<br>
+**_Key competencies gained:_** Large-scale government project experience, collaboration across technical and non-technical teams, code review and pair programming practices, cloud application development, security vulnerability management
 
 ### Intern and part time Software developer @ Noitso _(Feb 2013 - Aug 2014)_
 At Noitso, a financial technology and custom software development company, I:
 - Co-developed a CRM solution focusing on application and database design
 - Provided ongoing user support and maintained existing software systems
-- **_Technologies:_** C#, Java, JavaScript, HTML5, MSSQL, ASP MVC
-- **_Key competencies gained:_** Customer-facing software development and support experience
+
+**_Technologies:_** C#, Java, JavaScript, HTML5, MSSQL, ASP MVC<br>
+**_Key competencies gained:_** Customer-facing software development and support experience
 
 ## Education
 ### MSc Computer Science and Engineering @ DTU _(Feb 2014 - Oct 2016)_
